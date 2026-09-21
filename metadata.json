@@ -1,0 +1,6 @@
+{
+  "name": "KKN UISB 2026",
+  "description": "Dokumentasi perjalanan, kegiatan, program kerja, dan cerita KKN UISB 2026 di Kelurahan Balai Gadang, Kecamatan Koto Tangah, Kota Padang.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

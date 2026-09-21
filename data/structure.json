@@ -1,0 +1,191 @@
+[
+  {
+    "id": 1,
+    "name": "Muhammad Faridz Maulana",
+    "nim": "2355202006",
+    "position": "Ketua Tim",
+    "division": "Pimpinan",
+    "parent_id": null,
+    "photo": "/images/members/2355202006_MuhammadFaridzMaulana.webp"
+  },
+  {
+    "id": 2,
+    "name": "Adrian Saputra",
+    "nim": "2313201018",
+    "position": "Wakil Ketua",
+    "division": "Pimpinan",
+    "parent_id": 1,
+    "photo": "/images/members/2313201018_AdrianSaputra.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Azzahra",
+    "nim": "2313201010",
+    "position": "Sekretaris I",
+    "division": "Sekretariat",
+    "parent_id": 2,
+    "photo": "/images/members/2313201010_Azzahra.webp"
+  },
+  {
+    "id": 4,
+    "name": "Safinatul Ilmi",
+    "nim": "2313201004",
+    "position": "Sekretaris II",
+    "division": "Sekretariat",
+    "parent_id": 2,
+    "photo": "/images/members/2313201004_SafinatulIlmi.webp"
+  },
+  {
+    "id": 5,
+    "name": "Friska Sahani Tanjung",
+    "nim": "2373201014",
+    "position": "Bendahara",
+    "division": "Kebendaharaan",
+    "parent_id": 2,
+    "photo": "/images/members/2373201014_FriskaSahaniTanjung.webp"
+  },
+  {
+    "id": 6,
+    "name": "Dinatul Islami",
+    "nim": "2359201008",
+    "position": "Koordinator Divisi Acara",
+    "division": "Acara",
+    "parent_id": 2,
+    "photo": "/images/members/2359201008_DinatulIslami.webp"
+  },
+  {
+    "id": 7,
+    "name": "Hafizil Ilmi",
+    "nim": "2373201012",
+    "position": "Anggota Divisi Acara",
+    "division": "Acara",
+    "parent_id": 6,
+    "photo": "/images/members/2373201012_HafizilIlmi.webp"
+  },
+  {
+    "id": 8,
+    "name": "Abdul Aziz",
+    "nim": "2355202012",
+    "position": "Anggota Divisi Acara",
+    "division": "Acara",
+    "parent_id": 6,
+    "photo": "/images/members/2355202012_AbdulAziz.webp"
+  },
+  {
+    "id": 9,
+    "name": "Sonya Sesmita",
+    "nim": "2374201010",
+    "position": "Anggota Divisi Acara",
+    "division": "Acara",
+    "parent_id": 6,
+    "photo": "/images/members/2374201010_SonyaSesmita.webp"
+  },
+  {
+    "id": 10,
+    "name": "Suci Yulia Agusni",
+    "nim": "2313201002",
+    "position": "Koordinator Divisi Publikasi & Dokumentasi",
+    "division": "Publikasi & Dokumentasi",
+    "parent_id": 2,
+    "photo": "/images/members/2313201002_SuciKayo.webp"
+  },
+  {
+    "id": 11,
+    "name": "Mela Saputri Ningsih",
+    "nim": "2359201000",
+    "position": "Anggota Divisi Publikasi & Dokumentasi",
+    "division": "Publikasi & Dokumentasi",
+    "parent_id": 10,
+    "photo": "/images/members/2359201000_MelaSaputriNingsih.webp"
+  },
+  {
+    "id": 12,
+    "name": "Khairani Putri Azzahra",
+    "nim": "2374201004",
+    "position": "Anggota Divisi Publikasi & Dokumentasi",
+    "division": "Publikasi & Dokumentasi",
+    "parent_id": 10,
+    "photo": "/images/members/2374201004_KhairaniPutriAzzahra.webp"
+  },
+  {
+    "id": 13,
+    "name": "Shintya Elna Dwita",
+    "nim": "2373201002",
+    "position": "Koordinator Divisi Konsumsi",
+    "division": "Konsumsi",
+    "parent_id": 2,
+    "photo": "/images/members/2373201002_ShintyaElnaDwita.webp"
+  },
+  {
+    "id": 14,
+    "name": "Ladzya Fatharany",
+    "nim": "2355202007",
+    "position": "Anggota Divisi Konsumsi",
+    "division": "Konsumsi",
+    "parent_id": 13,
+    "photo": "/images/members/2355202007_LadzyaFatharany.webp"
+  },
+  {
+    "id": 15,
+    "name": "Rayhan Jamel Pasha",
+    "nim": "2373201011",
+    "position": "Anggota Divisi Konsumsi",
+    "division": "Konsumsi",
+    "parent_id": 13,
+    "photo": "/images/members/2373201011_RayhanJamelPasha.webp"
+  },
+  {
+    "id": 16,
+    "name": "Hari Ihsan Nurijal",
+    "nim": "2359201006",
+    "position": "Koordinator Divisi Perlengkapan",
+    "division": "Perlengkapan",
+    "parent_id": 2,
+    "photo": "/images/members/2359201006_HariIhsanNurijal.webp"
+  },
+  {
+    "id": 17,
+    "name": "Abbel",
+    "nim": "2359201015",
+    "position": "Anggota Divisi Perlengkapan",
+    "division": "Perlengkapan",
+    "parent_id": 16,
+    "photo": "/images/members/_2359201015_Abbel.webp"
+  },
+  {
+    "id": 18,
+    "name": "Asral Hidayat",
+    "nim": "2359201010",
+    "position": "Anggota Divisi Perlengkapan",
+    "division": "Perlengkapan",
+    "parent_id": 16,
+    "photo": "/images/members/2355202010_AsralHidayat.webp"
+  },
+  {
+    "id": 19,
+    "name": "Fadila Khairunnisa",
+    "nim": "2373201007",
+    "position": "Anggota Divisi Perlengkapan",
+    "division": "Perlengkapan",
+    "parent_id": 16,
+    "photo": "/images/members/2373201007_FadilaKhairunnisa.webp"
+  },
+  {
+    "id": 20,
+    "name": "Robi Cahyadi",
+    "nim": "2359201010",
+    "position": "Koordinator Divisi Humas",
+    "division": "Humas",
+    "parent_id": 2,
+    "photo": "/images/members/2359201010_RobiCahyadi.webp"
+  },
+  {
+    "id": 21,
+    "name": "Thahirah Tasman",
+    "nim": "2374201015",
+    "position": "Anggota Divisi Humas",
+    "division": "Humas",
+    "parent_id": 20,
+    "photo": "/images/members/2374201015_ThahirahTasman.webp"
+  }
+]

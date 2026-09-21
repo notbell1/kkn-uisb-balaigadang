@@ -1,0 +1,800 @@
+[
+  {
+    "id": 1,
+    "date": "2026-08-01",
+    "title": "Pengantaran Mahasiswa KKN",
+    "description": "Mengikuti kegiatan pengantaran mahasiswa kkn bersama DPL ke keluarahan Balai Gadang",
+    "category": "Kegiatan"
+  },
+  {
+    "id": 2,
+    "date": "2026-08-01",
+    "title": "Rapat Koordinasi dengan DPL dan Lurah",
+    "description": "Rapat koordinasi dengan DPL, Bapak Lurah beserta Sekretaris Lurah",
+    "category": "Kegiatan"
+  },
+  {
+    "id": 3,
+    "date": "2026-08-01",
+    "title": "Pertemuan dengan Pemuda Kelurahan",
+    "description": "Pertemuan dengan Wakil Ketua dan Sekretaris Pemuda Kelurahan Balai Gadang untuk memperoleh izin pelaksanaan KKN serta arahan mengenai kegiatan yang akan dilaksanakan selama masa KKN.",
+    "category": "Sosial"
+  },
+  {
+    "id": 4,
+    "date": "2026-08-01",
+    "title": "Dokumentasi dan Evaluasi Harian",
+    "description": "Dokumentasi dan Evaluasi harian",
+    "category": "Dokumenter"
+  },
+  {
+    "id": 5,
+    "date": "2026-08-02",
+    "title": "Bulan Bhakti Gotong Royong Masyarakat (BBGRM)",
+    "description": "Pada 2 Agustus 2026, mahasiswa KKN UISB mengikuti kegiatan Bulan Bhakti Gotong Royong Masyarakat (BBGRM) Kelurahan Balai Gadang serta berpartisipasi dalam kegiatan gotong royong bersama aparat kelurahan, ketua RT/RW, dan masyarakat di wilayah Air Dingin RT 02/RW 11.",
+    "category": "Program Kerja"
+  },
+  {
+    "id": 6,
+    "date": "2026-08-02",
+    "title": "Rapat Internal Program Kerja",
+    "description": "Melaksanakan rapat internal mahasiswa KKN untuk membahas program kerja bersama dan program kerja masing-masing program studi.",
+    "category": "Kegiatan"
+  },
+  {
+    "id": 7,
+    "date": "2026-08-02",
+    "title": "Dokumentasi dan Evaluasi Harian",
+    "description": "Melakukan dokumentasi dan evaluasi kegiatan harian.",
+    "category": "Dokumenter"
+  },
+  {
+    "id": 8,
+    "date": "2026-08-03",
+    "title": "Rapat Izin Program Kerja",
+    "description": "Rapat koordinasi dengan Bapak Lurah mengenai permohonan izin pelaksanaan program kerja (proker) KKN di Kelurahan Balai Gadang.",
+    "category": "Kegiatan"
+  },
+  {
+    "id": 9,
+    "date": "2026-08-03",
+    "title": "Rapat Perencanaan Pemetaan Potensi",
+    "description": "Melaksanakan rapat internal untuk membahas dan merencanakan pelaksanaan program kerja bersama yang telah ditentukan, yaitu Pemetaan Potensi Kelurahan Balai Gadang, serta program kerja masing-masing program studi.",
+    "category": "Kegiatan"
+  },
+  {
+    "id": 10,
+    "date": "2026-08-03",
+    "title": "Dokumentasi dan Evaluasi Harian",
+    "description": "Melakukan dokumentasi dan evaluasi kegiatan harian.",
+    "category": "Dokumenter"
+  },
+  {
+    "id": 11,
+    "date": "2026-08-04",
+    "title": "Piket Kantor Kelurahan",
+    "description": "Melaksanakan piket di Kantor Kelurahan Balai Gadang sesuai dengan pembagian tugas yang telah ditentukan.",
+    "category": "Kegiatan"
+  },
+  {
+    "id": 12,
+    "date": "2026-08-04",
+    "title": "Kunjungan Silaturahmi RW 08",
+    "description": "Melakukan kunjungan silaturahmi kepada Bapak RW 08 untuk menyampaikan permohonan izin pelaksanaan program kerja bersama Pemetaan Potensi Kelurahan Balai Gadang di wilayah RW 08.",
+    "category": "Sosial"
+  },
+  {
+    "id": 13,
+    "date": "2026-08-04",
+    "title": "Pembagian Kelompok Survei Data",
+    "description": "Melaksanakan rapat internal bersama seluruh anggota KKN mengenai pembagian kelompok survei yang terdiri atas tiga kelompok beserta pembagian tugas dan wilayah kerja untuk pelaksanaan survei data program kerja Pemetaan Potensi Kelurahan Balai Gadang.",
+    "category": "Kegiatan"
+  },
+  {
+    "id": 14,
+    "date": "2026-08-04",
+    "title": "Dokumentasi dan Evaluasi Harian",
+    "description": "Melakukan dokumentasi dan evaluasi kegiatan harian.",
+    "category": "Dokumenter"
+  },
+  {
+    "id": 15,
+    "date": "2026-08-05",
+    "title": "Arahan Pelaksanaan Survei",
+    "description": "Melaksanakan rapat bersama anggota KKN untuk menyampaikan informasi dan arahan sebelum pelaksanaan survei di wilayah RW 01, RW 04, dan RW 05.",
+    "category": "Kegiatan"
+  },
+  {
+    "id": 16,
+    "date": "2026-08-05",
+    "title": "Survei Lapangan Pemetaan Potensi Kelurahan Balai Gadang",
+    "description": "Pada 5 Agustus 2026, mahasiswa KKN UISB melaksanakan survei lapangan dalam rangka pengumpulan data program kerja Pemetaan Potensi Kelurahan Balai Gadang.",
+    "category": "Program Kerja"
+  },
+  {
+    "id": 17,
+    "date": "2026-08-05",
+    "title": "Evaluasi Hasil Survei Lapangan",
+    "description": "Melaksanakan evaluasi bersama setelah kegiatan survei untuk membahas hasil temuan dan kendala di lapangan.",
+    "category": "Kegiatan"
+  },
+  {
+    "id": 18,
+    "date": "2026-08-05",
+    "title": "Penentuan Anggota Posyandu",
+    "description": "Melaksanakan rapat terkait penentuan anggota KKN yang akan membantu kegiatan Posyandu.",
+    "category": "Kegiatan"
+  },
+  {
+    "id": 19,
+    "date": "2026-08-05",
+    "title": "Dokumentasi Harian",
+    "description": "Melakukan dokumentasi kegiatan harian.",
+    "category": "Dokumenter"
+  },
+  {
+    "id": 20,
+    "date": "2026-08-06",
+    "title": "Pendampingan Kegiatan Posyandu",
+    "description": "Pada 6 Agustus 2026, mahasiswa KKN UISB mengikuti kegiatan Posyandu dan membantu pelaksanaan kegiatan bersama kader dan masyarakat.",
+    "category": "Program Kerja"
+  },
+  {
+    "id": 21,
+    "date": "2026-08-06",
+    "title": "Rapat Persiapan Survei Lanjutan",
+    "description": "Melaksanakan rapat internal terkait persiapan dan pelaksanaan survei untuk proker Pemetaan Potensi Kelurahan Balai Gadang.",
+    "category": "Kegiatan"
+  },
+  {
+    "id": 22,
+    "date": "2026-08-06",
+    "title": "Dokumentasi dan Evaluasi Harian",
+    "description": "Melakukan dokumentasi dan evaluasi kegiatan harian",
+    "category": "Dokumenter"
+  },
+  {
+    "id": 23,
+    "date": "2026-08-07",
+    "title": "Apel Pagi dan Piket Kelurahan",
+    "description": "Melaksanakan apel pagi dan piket di Kantor Kelurahan Balai Gadang sesuai dengan pembagian tugas yang telah ditentukan.",
+    "category": "Kegiatan"
+  },
+  {
+    "id": 24,
+    "date": "2026-08-07",
+    "title": "Survei dan Pengambilan Data RW 03",
+    "description": "Melaksanakan survei dan pengambilan data di wilayah RW 03 sebagai bagian dari kegiatan Pemetaan Potensi Kelurahan Balai Gadang.",
+    "category": "Program Kerja"
+  },
+  {
+    "id": 25,
+    "date": "2026-08-07",
+    "title": "Rapat Mingguan dengan DPL",
+    "description": "Melaksanakan rapat bersama DPL terkait Perkembangan program kerja KKN selama satu minggu.",
+    "category": "Kegiatan"
+  },
+  {
+    "id": 26,
+    "date": "2026-08-07",
+    "title": "Rapat Evaluasi Internal",
+    "description": "Melaksanakan rapat internal untuk melakukan evaluasi kegiatan dan perkembangan program kerja KKN",
+    "category": "Kegiatan"
+  },
+  {
+    "id": 27,
+    "date": "2026-08-08",
+    "title": "Evaluasi Subproker dan Pemetaan",
+    "description": "Melaksanakan rapat evaluasi internal terkait laporan subproker dan perkembangan proker Pemetaan Potensi Kelurahan Balai Gadang.",
+    "category": "Kegiatan"
+  },
+  {
+    "id": 28,
+    "date": "2026-08-08",
+    "title": "Gotong Royong Posko",
+    "description": "Melaksanakan kegiatan gotong royong dan membersihkan lingkungan posko putra dan posko putri.",
+    "category": "Sosial"
+  },
+  {
+    "id": 29,
+    "date": "2026-08-08",
+    "title": "Persiapan Koordinasi HUT RI",
+    "description": "Melaksanakan rapat internal sebagai persiapan sebelum rapat koordinasi bersama KKN UIN Imam Bonjol Padang terkait kegiatan HUT RI.",
+    "category": "Kegiatan"
+  },
+  {
+    "id": 30,
+    "date": "2026-08-09",
+    "title": "Bulan Bhakti Gotong Royong Masyarakat (BBGRM) Part 2",
+    "description": "Pada 9 Agustus 2026, mahasiswa KKN UISB kembali mengikuti kegiatan Bulan Bhakti Gotong Royong Masyarakat (BBGRM) Kelurahan Balai Gadang serta berpartisipasi dalam kegiatan gotong royong bersama aparat kelurahan, ketua RT/RW, dan masyarakat di wilayah Air Dingin RT 02/RW 11 sebagai kelanjutan kegiatan BBGRM.",
+    "category": "Program Kerja"
+  },
+  {
+    "id": 31,
+    "date": "2026-08-09",
+    "title": "Kolaborasi HUT RI dengan KKN UIN",
+    "description": "Melaksanakan rapat bersama mahasiswa KKN UIN Imam Bonjol Padang terkait kolaborasi dalam pelaksanaan kegiatan HUT Kemerdekaan Republik Indonesia yang akan dimulai pada tanggal 16 Agustus 2026.",
+    "category": "Kegiatan"
+  },
+  {
+    "id": 32,
+    "date": "2026-08-09",
+    "title": "Dokumentasi dan Evaluasi Harian",
+    "description": "Melakukan dokumentasi dan evaluasi kegiatan harian.",
+    "category": "Dokumenter"
+  },
+  {
+    "id": 33,
+    "date": "2026-08-10",
+    "title": "Input Data Hasil Survei",
+    "description": "Menginput data hasil survei beserta foto dan titik koordinat ke dalam formulir yang telah disiapkan.",
+    "category": "Kegiatan"
+  },
+  {
+    "id": 34,
+    "date": "2026-08-10",
+    "title": "Pembahasan Peminjaman Alat Lab",
+    "description": "Membahas peminjaman alat Laboratorium Kesmas",
+    "category": "Kegiatan"
+  },
+  {
+    "id": 35,
+    "date": "2026-08-10",
+    "title": "Pengecekan Data Survei",
+    "description": "Melakukan pengecekan dan melengkapi data hasil survei yang telah dikumpulkan.",
+    "category": "Kegiatan"
+  },
+  {
+    "id": 36,
+    "date": "2026-08-10",
+    "title": "Koordinasi Persiapan HUT Kemerdekaan Republik Indonesia",
+    "description": "Pada 10 Agustus 2026, mahasiswa KKN UISB berkunjung ke tempat pemuda untuk membahas dan berkoordinasi terkait persiapan perayaan HUT Kemerdekaan Republik Indonesia ke-81.",
+    "category": "Program Kerja"
+  },
+  {
+    "id": 37,
+    "date": "2026-08-11",
+    "title": "Penyampaian Hasil Survei RW",
+    "description": "Rapat koordinasi dan penyampaian hasil survei dari masing-masing kelompok RW serta pembahasan kendala di lapangan.",
+    "category": "Kegiatan"
+  },
+  {
+    "id": 38,
+    "date": "2026-08-11",
+    "title": "Pengolahan Data Pemetaan Potensi",
+    "description": "Membahas tindak lanjut pengolahan data mentah untuk proker Pemetaan Potensi Kelurahan Balai Gadang.",
+    "category": "Kegiatan"
+  },
+  {
+    "id": 39,
+    "date": "2026-08-11",
+    "title": "Rencana Kolaborasi Antarprodi",
+    "description": "Membahas pelaksanaan proker dan sub proker masing-masing prodi serta rencana kolaborasi antarprodi.",
+    "category": "Kegiatan"
+  },
+  {
+    "id": 40,
+    "date": "2026-08-12",
+    "title": "Apel Pagi dan Piket",
+    "description": "Melaksanakan apel pagi dan piket di Kantor Kelurahan Balai Gadang sesuai dengan pembagian tugas yang telah ditentukan.",
+    "category": "Kegiatan"
+  },
+  {
+    "id": 41,
+    "date": "2026-08-12",
+    "title": "Rapat Evaluasi Program Kerja",
+    "description": "Melaksanakan rapat evaluasi bersama anggota KKN untuk membahas kegiatan yang telah dilaksanakan serta perkembangan program kerja KKN.",
+    "category": "Kegiatan"
+  },
+  {
+    "id": 42,
+    "date": "2026-08-12",
+    "title": "Dokumentasi dan Evaluasi Harian",
+    "description": "Melakukan dokumentasi dan evaluasi kegiatan harian.",
+    "category": "Dokumenter"
+  },
+  {
+    "id": 43,
+    "date": "2026-08-13",
+    "title": "Apel Pagi dan Piket",
+    "description": "Melaksanakan apel pagi dan piket di Kantor Kelurahan Balai Gadang sesuai dengan pembagian tugas yang telah ditentukan.",
+    "category": "Kegiatan"
+  },
+  {
+    "id": 44,
+    "date": "2026-08-13",
+    "title": "Cek Kesehatan Gratis di SDN 21",
+    "description": "Pada 13 Agustus 2026, mahasiswa KKN UISB mengikuti kegiatan CKG di SDN 21 dan membantu pelaksanaan kegiatan.",
+    "category": "Program Kerja"
+  },
+  {
+    "id": 45,
+    "date": "2026-08-13",
+    "title": "Monitoring dari Panitia UISB",
+    "description": "Menerima kegiatan monitoring KKN dari dosen UISB dan panitia terkait perkembangan pelaksanaan KKN.",
+    "category": "Kegiatan"
+  },
+  {
+    "id": 46,
+    "date": "2026-08-13",
+    "title": "Bimbingan dan Evaluasi DPL",
+    "description": "Melaksanakan bimbingan dan evaluasi bersama DPL mengenai perkembangan kegiatan dan program kerja KKN.",
+    "category": "Kegiatan"
+  },
+  {
+    "id": 47,
+    "date": "2026-08-13",
+    "title": "Penyuluhan Pemasangan Bendera Merah Putih",
+    "description": "Pada 13 Agustus 2026, mahasiswa KKN UISB melaksanakan penyuluhan pemasangan bendera merah putih sebagai semangat perjuangan kepada masyarakat dalam menyambut HUT Kemerdekaan Republik Indonesia.",
+    "category": "Program Kerja"
+  },
+  {
+    "id": 48,
+    "date": "2026-08-14",
+    "title": "Apel Pagi dan Piket",
+    "description": "Melaksanakan apel pagi dan piket di Kantor Kelurahan Balai Gadang sesuai dengan pembagian tugas yang telah ditentukan.",
+    "category": "Kegiatan"
+  },
+  {
+    "id": 49,
+    "date": "2026-08-14",
+    "title": "Rapat Kendala Divisi KKN",
+    "description": "Melaksanakan rapat evaluasi internal terkait kendala yang dihadapi masing-masing divisi selama pelaksanaan KKN.",
+    "category": "Kegiatan"
+  },
+  {
+    "id": 50,
+    "date": "2026-08-14",
+    "title": "Pendampingan Pustu Air Dingin di Posyandu Baringin 10",
+    "description": "Pada 14 Agustus 2026, mahasiswa KKN UISB membantu kegiatan Pustu Air Dingin di Posyandu Baringin 10 dalam pelaksanaan kegiatan pelayanan kesehatan masyarakat.",
+    "category": "Program Kerja"
+  },
+  {
+    "id": 51,
+    "date": "2026-08-14",
+    "title": "Pembahasan Plan B HUT RI",
+    "description": "Membahas dan mempertimbangkan Plan B yang telah disusun pada rapat sebelumnya bersama mahasiswa KKN UIN Imam Bonjol Padang, karena belum memperoleh konfirmasi dari Ketua Pemuda dan izin dari RW terkait untuk pelaksanaan Plan B.",
+    "category": "Kegiatan"
+  },
+  {
+    "id": 52,
+    "date": "2026-08-14",
+    "title": "Lanjutan Menghias Posko",
+    "description": "Melanjutkan kegiatan menghias posko dan memasang bendera-bendera kecil di sekitar jalan posko dalam rangka menyambut HUT Kemerdekaan Republik Indonesia.",
+    "category": "Sosial"
+  },
+  {
+    "id": 53,
+    "date": "2026-08-14",
+    "title": "Dokumentasi dan Evaluasi Harian",
+    "description": "Melakukan dokumentasi dan evaluasi kegiatan harian.",
+    "category": "Dokumenter"
+  },
+  {
+    "id": 54,
+    "date": "2026-08-15",
+    "title": "Persiapan Doorprize Perlombaan HUT Kemerdekaan",
+    "description": "Pada 15 Agustus 2026, mahasiswa KKN UISB mempersiapkan doorprize untuk kegiatan perlombaan HUT Kemerdekaan Republik Indonesia bersama pemuda Kelurahan Balai Gadang. Kegiatan meliputi pengecekan dan penataan doorprize sesuai dengan kebutuhan perlombaan.",
+    "category": "Program Kerja"
+  },
+  {
+    "id": 55,
+    "date": "2026-08-15",
+    "title": "Penataan Doorprize Lomba",
+    "description": "Melakukan pengecekan dan penataan Doorprize sesuai dengan kebutuhan perlombaan.",
+    "category": "Kegiatan"
+  },
+  {
+    "id": 56,
+    "date": "2026-08-15",
+    "title": "Pembuatan Photobooth Kemerdekaan",
+    "description": "Membuat photobooth untuk memeriahkan kegiatan perlombaan HUT Kemerdekaan Republik Indonesia.",
+    "category": "Dokumenter"
+  },
+  {
+    "id": 57,
+    "date": "2026-08-15",
+    "title": "Dokumentasi dan Evaluasi Harian",
+    "description": "Melakukan dokumentasi dan evaluasi kegiatan harian.",
+    "category": "Dokumenter"
+  },
+  {
+    "id": 58,
+    "date": "2026-08-16",
+    "title": "Panitia Lomba HUT RI RW 08",
+    "description": "Membantu pemuda Kelurahan Balai Gadang dalam pelaksanaan perlombaan HUT Kemerdekaan Republik Indonesia di RW 08 sebagai panitia.",
+    "category": "Sosial"
+  },
+  {
+    "id": 59,
+    "date": "2026-08-16",
+    "title": "Partisipasi Lomba HUT RI",
+    "description": "Mengikuti dan berpartisipasi dalam perlombaan yang diselenggarakan oleh pemuda di RW 08.",
+    "category": "Sosial"
+  },
+  {
+    "id": 60,
+    "date": "2026-08-16",
+    "title": "Perlombaan HUT Kemerdekaan Republik Indonesia",
+    "description": "Pada 16 Agustus 2026, mahasiswa KKN UISB bersama pemuda mengadakan berbagai perlombaan di RW 08 untuk memeriahkan perayaan HUT Kemerdekaan Republik Indonesia.",
+    "category": "Program Kerja"
+  },
+  {
+    "id": 61,
+    "date": "2026-08-16",
+    "title": "Dokumentasi dan Evaluasi Harian",
+    "description": "Melakukan dokumentasi dan evaluasi kegiatan harian.",
+    "category": "Dokumenter"
+  },
+  {
+    "id": 62,
+    "date": "2026-08-17",
+    "title": "Dukungan Hadiah Perlombaan HUT Kemerdekaan",
+    "description": "Pada 17 Agustus 2026, mahasiswa KKN UISB menyumbangkan hadiah sebagai bentuk dukungan pada acara perlombaan HUT Kemerdekaan Republik Indonesia yang diselenggarakan oleh pemuda.",
+    "category": "Program Kerja"
+  },
+  {
+    "id": 63,
+    "date": "2026-08-17",
+    "title": "Penyerahan Hadiah Pemenang Lomba",
+    "description": "Memberikan hadiah sebagai perwakilan Mahasiswa KKN UISB kepada para pemenang perlombaan HUT Kemerdekaan Republik Indonesia.",
+    "category": "Sosial"
+  },
+  {
+    "id": 64,
+    "date": "2026-08-17",
+    "title": "Gotong Royong Posko Pasca Lomba",
+    "description": "Melaksanakan kegiatan gotong royong dan membersihkan lingkungan posko KKN.",
+    "category": "Sosial"
+  },
+  {
+    "id": 65,
+    "date": "2026-08-17",
+    "title": "Dokumentasi dan Evaluasi Harian",
+    "description": "Melakukan dokumentasi dan evaluasi kegiatan harian.",
+    "category": "Dokumenter"
+  },
+  {
+    "id": 66,
+    "date": "2026-08-18",
+    "title": "Pembuatan Tong Pemilah Sampah",
+    "description": "Pada 18 Agustus 2026, mahasiswa KKN UISB memulai pembuatan tong pemilah sampah sebagai bagian dari subprogram kerja KKN.",
+    "category": "Program Kerja"
+  },
+  {
+    "id": 67,
+    "date": "2026-08-18",
+    "title": "Pengambilan Pasir Pengecoran",
+    "description": "Mengambil pasir yang akan digunakan untuk kebutuhan pengecoran reflektor jalan.",
+    "category": "Kegiatan"
+  },
+  {
+    "id": 68,
+    "date": "2026-08-18",
+    "title": "Dokumentasi dan Evaluasi Harian",
+    "description": "Melakukan dokumentasi dan evaluasi kegiatan harian.",
+    "category": "Dokumenter"
+  },
+  {
+    "id": 69,
+    "date": "2026-08-19",
+    "title": "Pembuatan Reflektor Jalan",
+    "description": "Pada 19 Agustus 2026, mahasiswa KKN UISB melakukan pembuatan reflektor jalan sebagai bagian dari kegiatan subprogram kerja.",
+    "category": "Program Kerja"
+  },
+  {
+    "id": 70,
+    "date": "2026-08-19",
+    "title": "Mengajar Penulisan Huruf Hijaiyah",
+    "description": "Pada 19 Agustus 2026, mahasiswa KKN UISB melaksanakan kegiatan mengajar penulisan huruf Hijaiyah kepada anak-anak TPA.",
+    "category": "Program Kerja"
+  },
+  {
+    "id": 71,
+    "date": "2026-08-19",
+    "title": "Penyuluhan Stop Bullying",
+    "description": "Kegiatan penyuluhan Stop Bullying dilaksanakan sebagai bagian dari edukasi kepada siswa mengenai perilaku bullying, dampaknya terhadap korban maupun lingkungan sosial, serta langkah-langkah yang dapat dilakukan untuk mencegah dan menghadapi bullying.",
+    "category": "Program Kerja"
+  },
+  {
+    "id": 72,
+    "date": "2026-08-19",
+    "title": "Penyuluhan Sadar Hukum tentang Bullying",
+    "description": "Kegiatan penyuluhan Stop Bullying juga melibatkan bidang hukum untuk memberikan pemahaman mengenai bullying dari perspektif hukum. Materi diarahkan pada pengenalan konsekuensi hukum dari tindakan kekerasan atau perundungan serta pentingnya memahami hak dan kewajiban dalam kehidupan bermasyarakat.",
+    "category": "Program Kerja"
+  },
+  {
+    "id": 73,
+    "date": "2026-08-19",
+    "title": "Penyuluhan Personal Hygiene",
+    "description": "Pada 19 Agustus 2026, mahasiswa KKN UISB melaksanakan penyuluhan Personal Hygiene oleh Prodi Kesehatan Masyarakat di SDN 42 Baringin.",
+    "category": "Program Kerja"
+  },
+  {
+    "id": 74,
+    "date": "2026-08-19",
+    "title": "Dokumentasi dan Evaluasi Harian",
+    "description": "Melakukan dokumentasi dan evaluasi kegiatan harian.",
+    "category": "Dokumenter"
+  },
+  {
+    "id": 75,
+    "date": "2026-08-20",
+    "title": "Cek Kesehatan Gratis di SMA Negeri 13 Padang",
+    "description": "Pada 20 Agustus 2026, mahasiswa KKN UISB membantu kegiatan CKG (Cek Kesehatan Gratis) bersama petugas Puskesmas Air Dingin di SMA Negeri 13 Padang.",
+    "category": "Program Kerja"
+  },
+  {
+    "id": 76,
+    "date": "2026-08-20",
+    "title": "Penanaman Tanaman Cabe dan Bunga",
+    "description": "Pada 20 Agustus 2026, mahasiswa KKN UISB menanam tanaman cabe dan bunga di sekitar area dekat posko KKN sebagai bagian dari kegiatan pemanfaatan dan penataan lingkungan sekitar posko.",
+    "category": "Program Kerja"
+  },
+  {
+    "id": 77,
+    "date": "2026-08-20",
+    "title": "Makan Bersama DPL",
+    "description": "Melaksanakan makan bersama DPL dan anggota kelompok KKN sebagai bentuk kebersamaan dan silaturahmi.",
+    "category": "Sosial"
+  },
+  {
+    "id": 78,
+    "date": "2026-08-20",
+    "title": "Dokumentasi dan Evaluasi Harian",
+    "description": "Melakukan dokumentasi dan evaluasi kegiatan harian.",
+    "category": "Dokumenter"
+  },
+  {
+    "id": 79,
+    "date": "2026-08-21",
+    "title": "Piket Kantor Kelurahan",
+    "description": "Melaksanakan piket di Kantor Kelurahan Balai Gadang.",
+    "category": "Kegiatan"
+  },
+  {
+    "id": 80,
+    "date": "2026-08-21",
+    "title": "Lanjutan Cek Kesehatan Gratis di SMA Negeri 13 Padang",
+    "description": "Pada 21 Agustus 2026, mahasiswa KKN UISB melanjutkan kegiatan CKG (Cek Kesehatan Gratis) bersama petugas Puskesmas Air Dingin di SMA Negeri 13 Padang.",
+    "category": "Program Kerja"
+  },
+  {
+    "id": 81,
+    "date": "2026-08-21",
+    "title": "Psikoedukasi Mengenal Diri dan Pengaruh Teman Sebaya",
+    "description": "Pada 21 Agustus 2026, mahasiswa KKN UISB melaksanakan psikoedukasi “Berani Memilih, Mengenal dan Menghadapi Pengaruh Teman Sebaya, Mengenal Emosi & Mengenal Potensi Diri” di SDN 32 Sungai Bangek.",
+    "category": "Program Kerja"
+  },
+  {
+    "id": 82,
+    "date": "2026-08-21",
+    "title": "Rapat Persiapan Lubuk Ngalauan",
+    "description": "Melaksanakan rapat bersama Wakil Pemuda terkait persiapan kegiatan bersama ke air terjun Lubuk Ngalauan.",
+    "category": "Kegiatan"
+  },
+  {
+    "id": 83,
+    "date": "2026-08-21",
+    "title": "Dokumentasi dan Evaluasi Harian",
+    "description": "Melakukan dokumentasi dan evaluasi kegiatan harian.",
+    "category": "Dokumenter"
+  },
+  {
+    "id": 84,
+    "date": "2026-08-22",
+    "title": "Observasi Air Terjun Lubuk Ngalauan",
+    "description": "Pada 22 Agustus 2026, mahasiswa KKN UISB mengikuti kegiatan observasi bersama pemuda Kelurahan Balai Gadang ke Air Terjun Lubuk Ngalauan. Kegiatan ini merupakan observasi terhadap potensi wisata di wilayah Kelurahan Balai Gadang bersama pemuda setempat.",
+    "category": "Program Kerja"
+  },
+  {
+    "id": 85,
+    "date": "2026-08-22",
+    "title": "Dokumentasi dan Evaluasi Harian",
+    "description": "Melakukan dokumentasi dan evaluasi kegiatan harian.",
+    "category": "Dokumenter"
+  },
+  {
+    "id": 86,
+    "date": "2026-08-23",
+    "title": "Rapat Persiapan Maulid & Perpisahan",
+    "description": "Melaksanakan rapat bersama untuk membahas persiapan kegiatan Maulid Nabi Muhammad SAW dan membahas terkait persiapan acara malam perpisahan KKN UISB.",
+    "category": "Kegiatan"
+  },
+  {
+    "id": 87,
+    "date": "2026-08-23",
+    "title": "Pembagian Tugas Kegiatan",
+    "description": "Membahas pembagian tugas, teknis pelaksanaan, serta kebutuhan perlengkapan untuk kegiatan yang akan dilaksanakan.",
+    "category": "Kegiatan"
+  },
+  {
+    "id": 88,
+    "date": "2026-08-23",
+    "title": "Dokumentasi dan Evaluasi Harian",
+    "description": "Melakukan dokumentasi dan evaluasi kegiatan harian.",
+    "category": "Dokumenter"
+  },
+  {
+    "id": 89,
+    "date": "2026-08-24",
+    "title": "Mengajar Mengaji dan Koordinasi Persiapan Maulid Nabi",
+    "description": "Pada 24 Agustus 2026, mahasiswa KKN UISB melaksanakan kegiatan mengajar mengaji kepada anak-anak TPA sekaligus melakukan konfirmasi dan koordinasi dengan pengurus masjid serta guru ngaji terkait persiapan dan teknis pelaksanaan kegiatan Maulid Nabi Muhammad SAW.",
+    "category": "Program Kerja"
+  },
+  {
+    "id": 90,
+    "date": "2026-08-25",
+    "title": "Rapat Maulid Musholla Darul Ulum",
+    "description": "Melaksanakan rapat persiapan terkait acara Maulid Nabi yang akan dilaksanakan di Musholla Darul Ulum.",
+    "category": "Kegiatan"
+  },
+  {
+    "id": 91,
+    "date": "2026-08-25",
+    "title": "Rencana Video After Movie",
+    "description": "Menyusun rencana pembuatan video after movie sebagai dokumentasi kegiatan KKN.",
+    "category": "Dokumenter"
+  },
+  {
+    "id": 92,
+    "date": "2026-08-25",
+    "title": "Dokumentasi dan Evaluasi Harian",
+    "description": "Melakukan dokumentasi dan evaluasi kegiatan harian.",
+    "category": "Dokumenter"
+  },
+  {
+    "id": 93,
+    "date": "2026-08-26",
+    "title": "Edukasi Digital Marketing dan Keamanan Siber",
+    "description": "Kegiatan edukasi Digital Marketing dan Keamanan Siber dilaksanakan untuk memberikan pemahaman kepada peserta mengenai pemanfaatan teknologi digital secara produktif sekaligus meningkatkan kesadaran terhadap keamanan dalam menggunakan teknologi dan internet.",
+    "category": "Program Kerja"
+  },
+  {
+    "id": 94,
+    "date": "2026-08-26",
+    "title": "Generasi Muda Sadar Hukum",
+    "description": "Kegiatan Generasi Muda Sadar Hukum memberikan edukasi mengenai pentingnya kesadaran hukum bagi generasi muda. Kegiatan ini bertujuan membantu peserta memahami pentingnya menaati aturan, mengetahui hak dan kewajiban, serta menerapkan perilaku yang bertanggung jawab dalam kehidupan sehari-hari.",
+    "category": "Program Kerja"
+  },
+  {
+    "id": 95,
+    "date": "2026-08-26",
+    "title": "Pembuatan Video After Movie",
+    "description": "Membuat video after movie sebagai dokumentasi rangkaian kegiatan KKN UISB.",
+    "category": "Dokumenter"
+  },
+  {
+    "id": 96,
+    "date": "2026-08-26",
+    "title": "Mengajar Penulisan Huruf Hijaiyah di TPQ Darul Ulum",
+    "description": "Pada 26 Agustus 2026, mahasiswa KKN UISB melaksanakan kegiatan mengajar penulisan huruf Hijaiyah kepada anak-anak TPQ Darul Ulum.",
+    "category": "Program Kerja"
+  },
+  {
+    "id": 97,
+    "date": "2026-08-26",
+    "title": "Gotong Royong Posko KKN",
+    "description": "Melaksanakan kegiatan gotong royong dan membersihkan lingkungan posko KKN.",
+    "category": "Sosial"
+  },
+  {
+    "id": 98,
+    "date": "2026-08-26",
+    "title": "Penanaman Tanaman Herbal dan Serai",
+    "description": "Pada 26 Agustus 2026, mahasiswa KKN UISB melanjutkan kegiatan penanaman tanaman herbal dan serai di lingkungan posko KKN.",
+    "category": "Program Kerja"
+  },
+  {
+    "id": 99,
+    "date": "2026-08-27",
+    "title": "Gotong Royong Area Musholla",
+    "description": "Melaksanakan kegiatan gotong royong membersihkan area musholla bersama anggota KKN.",
+    "category": "Sosial"
+  },
+  {
+    "id": 100,
+    "date": "2026-08-27",
+    "title": "Gotong Royong Posko KKN",
+    "description": "Melaksanakan gotong royong dan membersihkan lingkungan posko KKN.",
+    "category": "Sosial"
+  },
+  {
+    "id": 101,
+    "date": "2026-08-27",
+    "title": "Pembersihan Area Reflektor Jalan",
+    "description": "Pada 27 Agustus 2026, mahasiswa KKN UISB melakukan kegiatan pemotongan dan pembersihan rumput di sekitar reflektor jalan bersama Ketua RW 08.",
+    "category": "Program Kerja"
+  },
+  {
+    "id": 102,
+    "date": "2026-08-27",
+    "title": "Monitoring Pimpinan UISB",
+    "description": "Menerima kunjungan pimpinan UISB dan melaksanakan kegiatan monitoring bersama Ketua LP2M, Putik Padat, dan Humas, yang didampingi oleh Bapak Lurah, Ketua RW 08, serta Wakil Ketua Pemuda.",
+    "category": "Kegiatan"
+  },
+  {
+    "id": 103,
+    "date": "2026-08-27",
+    "title": "Peringatan Maulid Nabi Muhammad SAW",
+    "description": "Pada 27 Agustus 2026, mahasiswa KKN UISB mengikuti kegiatan peringatan Maulid Nabi Muhammad SAW sekaligus mengisi tilawah Al-Qur'an di Musholla Darul Ulum.",
+    "category": "Program Kerja"
+  },
+  {
+    "id": 104,
+    "date": "2026-08-27",
+    "title": "Dokumentasi dan Evaluasi Harian",
+    "description": "Melakukan dokumentasi dan evaluasi kegiatan harian.",
+    "category": "Dokumenter"
+  },
+  {
+    "id": 105,
+    "date": "2026-08-28",
+    "title": "Piket Kantor Kelurahan",
+    "description": "Melaksanakan piket di Kantor Kelurahan Balai Gadang.",
+    "category": "Kegiatan"
+  },
+  {
+    "id": 106,
+    "date": "2026-08-28",
+    "title": "Pemasangan Reflektor Jalan",
+    "description": "Pada 28 Agustus 2026, mahasiswa KKN UISB melaksanakan pemasangan reflektor jalan bersama Wakil Ketua Pemuda.",
+    "category": "Program Kerja"
+  },
+  {
+    "id": 107,
+    "date": "2026-08-28",
+    "title": "Dokumentasi dan Evaluasi Harian",
+    "description": "Melakukan dokumentasi dan evaluasi kegiatan harian.",
+    "category": "Dokumenter"
+  },
+  {
+    "id": 108,
+    "date": "2026-08-29",
+    "title": "Cek Kesehatan Gratis di Posko KKN",
+    "description": "Pada 29 Agustus 2026, mahasiswa KKN UISB melaksanakan kegiatan CKG (Cek Kesehatan Gratis) di depan posko KKN yang meliputi pemeriksaan gula darah, kolesterol, asam urat, dan tekanan darah.",
+    "category": "Program Kerja"
+  },
+  {
+    "id": 109,
+    "date": "2026-08-29",
+    "title": "Dokumentasi dan Evaluasi Harian",
+    "description": "Melakukan dokumentasi dan evaluasi kegiatan harian.",
+    "category": "Dokumenter"
+  },
+  {
+    "id": 110,
+    "date": "2026-08-30",
+    "title": "Gotong Royong Posko",
+    "description": "Melaksanakan gotong royong dan membersihkan lingkungan posko KKN.",
+    "category": "Sosial"
+  },
+  {
+    "id": 111,
+    "date": "2026-08-30",
+    "title": "Mengundang Warga Perpisahan",
+    "description": "Mengundang warga sekitar untuk menghadiri acara malam perpisahan KKN UISB.",
+    "category": "Sosial"
+  },
+  {
+    "id": 112,
+    "date": "2026-08-30",
+    "title": "Malam Perpisahan KKN UISB",
+    "description": "Pada 30 Agustus 2026, mahasiswa KKN UISB melaksanakan acara malam perpisahan bersama RW 08, pemuda, dan warga sebagai bentuk silaturahmi sekaligus penutupan kegiatan KKN.",
+    "category": "Program Kerja"
+  },
+  {
+    "id": 113,
+    "date": "2026-08-30",
+    "title": "Dokumentasi dan Evaluasi Harian",
+    "description": "Melakukan dokumentasi dan evaluasi kegiatan harian.",
+    "category": "Dokumenter"
+  },
+  {
+    "id": 114,
+    "date": "2026-08-31",
+    "title": "Penjemputan dan Pamitan KKN",
+    "description": "Mengikuti penjemputan mahasiswa KKN oleh DPL serta melakukan pamitan dengan Bapak Lurah Balai Gadang sebelum meninggalkan lokasi KKN.",
+    "category": "Sosial"
+  }
+]
