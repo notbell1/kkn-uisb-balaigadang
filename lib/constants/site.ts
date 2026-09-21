@@ -11,7 +11,7 @@ export const siteConfig = {
     "Teknik Informatika",
     "Psikologi",
     "Kesehatan Masyarakat",
-    "Ilmu Hukum"
+    "Ilmu Hukum",
   ],
   stats: {
     area: "106,9 km²",
@@ -19,12 +19,12 @@ export const siteConfig = {
     rt: 58,
     population: "±20.000",
     facilities: 81,
-    potentials: 25
+    potentials: 25,
   },
   socials: {
-    instagram: "https://instagram.com/kknuisb.balaigadang2026",
-    tiktok: "https://tiktok.com/@kknuisb2026",
-    email: "kkn.balaigadang2026@uisb.ac.id",
+    instagram: "https://instagram.com/kkn.uisb_balaigadang2026",
+    tiktok: "https://tiktok.com/@kelurahan_balaigadang",
+    email: "-",
     university: "https://uisb.ac.id",
   },
 };
