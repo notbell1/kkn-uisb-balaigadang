@@ -1,164 +1,249 @@
-# KKN UISB 2026 — Kelurahan Balai Gadang
-
 <div align="center">
 
-### Kuliah Kerja Nyata
+  <img src="public/images/logo/uisb.png" alt="Logo UISB" width="90" height="90" style="margin: 0 14px;" />
+  <img src="public/images/logo/kkn.png" alt="Logo KKN" width="90" height="90" style="margin: 0 14px;" />
 
-**Universitas Islam Sumatera Barat**
+  # 🌿 KKN UISB 2026
+  ### Kelurahan Balai Gadang · Kota Padang
 
-**Kelurahan Balai Gadang · Kecamatan Koto Tangah · Kota Padang**
+  <p align="center">
+    <strong>Portal Dokumentasi, Informasi & Arsip Digital Pengabdian Masyarakat</strong><br />
+    <em>Universitas Islam Sumatera Barat (UISB)</em>
+  </p>
+
+  <p align="center">
+    <a href="https://github.com/notbell1/kkn-uisb-balaigadang"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" /></a>
+    <a href="https://vercel.com"><img src="https://img.shields.io/badge/Deployment-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /></a>
+    <a href="https://react.dev"><img src="https://img.shields.io/badge/React-19.0-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React 19" /></a>
+    <a href="https://vitejs.dev"><img src="https://img.shields.io/badge/Vite-8.x-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" /></a>
+    <a href="https://tailwindcss.com"><img src="https://img.shields.io/badge/Tailwind_CSS-v4-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /></a>
+  </p>
+
+  <p align="center">
+    <a href="#-tentang-kkn">Tentang KKN</a> •
+    <a href="#-fitur-unggulan">Fitur Utama</a> •
+    <a href="#-arsitektur--tech-stack">Tech Stack</a> •
+    <a href="#-struktur-direktori">Struktur Proyek</a> •
+    <a href="#-delegasi-tim">Struktur Tim</a> •
+    <a href="#-panduan-instalasi">Instalasi</a> •
+    <a href="#-deployment-vercel">Deployment</a>
+  </p>
+
+  ---
 
 </div>
 
----
-
-## 📖 Tentang KKN
-
-**Kuliah Kerja Nyata (KKN) UISB 2026** merupakan kegiatan pengabdian mahasiswa Universitas Islam Sumatera Barat kepada masyarakat yang dilaksanakan di **Kelurahan Balai Gadang, Kecamatan Koto Tangah, Kota Padang**.
-
-Kegiatan KKN menjadi kesempatan bagi mahasiswa untuk mengimplementasikan ilmu yang diperoleh selama perkuliahan sekaligus belajar secara langsung dari masyarakat dan lingkungan tempat mereka mengabdi.
-
-Melalui berbagai kegiatan, program kerja, dan aktivitas sosial, mahasiswa berupaya memberikan kontribusi yang dapat memberikan manfaat bagi masyarakat serta mendukung potensi yang dimiliki oleh Kelurahan Balai Gadang.
-
-KKN juga menjadi bagian dari proses pembelajaran mahasiswa dalam membangun komunikasi, kerja sama, kepedulian sosial, dan pengalaman bermasyarakat.
+> *"Barek samo dipikua, ringan samo dijinjiang — Mengabdi dengan keikhlasan, belajar dari denyut kehidupan masyarakat, dan menghadirkan karya nyata bagi Kelurahan Balai Gadang."*
 
 ---
 
-## 🌐 Tentang Website
+## 📖 Tentang KKN UISB 2026
 
-Website **KKN UISB 2026 — Kelurahan Balai Gadang** merupakan media informasi dan dokumentasi digital yang dibuat untuk merekam perjalanan pelaksanaan KKN.
+**Kuliah Kerja Nyata (KKN) Universitas Islam Sumatera Barat (UISB) 2026** di **Kelurahan Balai Gadang, Kecamatan Koto Tangah, Kota Padang** merupakan manifestasi pelaksanaan Tridharma Perguruan Tinggi dalam pilar Pengabdian kepada Masyarakat.
 
-Website ini menghadirkan berbagai informasi mengenai kegiatan mahasiswa, program kerja, dokumentasi, serta informasi mengenai Kelurahan Balai Gadang dalam satu platform yang dapat diakses dengan mudah.
+Sebanyak **21 mahasiswa** dari **5 program studi** bersinergi memadukan disiplin keilmuan teknologi informasi, kesehatan masyarakat, psikologi, dan hukum untuk mendampingi warga, memetakan potensi wilayah, serta menginisiasi program berkelanjutan yang solutif.
 
-Selain sebagai media informasi, website ini juga menjadi **arsip digital perjalanan KKN**, sehingga berbagai kegiatan dan momen yang telah dilaksanakan dapat terdokumentasi dan dikenang dalam jangka panjang.
+### 📊 Sekilas Wilayah & Pengabdian
 
----
-
-## ✨ Fitur Website
-
-Website menyediakan berbagai bagian yang dirancang untuk memberikan pengalaman informasi dan dokumentasi yang lebih menarik.
-
-### 🏠 Beranda
-
-Halaman utama yang memperkenalkan KKN UISB 2026 serta memberikan gambaran umum mengenai kegiatan dan perjalanan mahasiswa selama berada di Kelurahan Balai Gadang.
-
-### 📰 Berita & Kegiatan
-
-Menampilkan berbagai cerita dan informasi mengenai aktivitas mahasiswa selama pelaksanaan KKN.
-
-### 🛠️ Program Kerja
-
-Dokumentasi program-program yang dilaksanakan mahasiswa sebagai bagian dari kegiatan pengabdian kepada masyarakat.
-
-### 🖼️ Galeri
-
-Kumpulan dokumentasi foto dari berbagai kegiatan dan momen selama pelaksanaan KKN.
-
-### 👥 Struktur Organisasi
-
-Menampilkan anggota dan struktur kepengurusan kelompok KKN.
-
-### 🗺️ Informasi Kelurahan
-
-Menyajikan informasi mengenai Kelurahan Balai Gadang, termasuk gambaran wilayah, fasilitas, dan berbagai informasi pendukung lainnya.
-
-### 🎬 Dokumentasi
-
-Mengabadikan berbagai momen perjalanan KKN dalam bentuk foto maupun dokumentasi multimedia.
+| Parameter | Keterangan |
+| :--- | :--- |
+| 📍 **Lokasi Pengabdian** | Kelurahan Balai Gadang, Kec. Koto Tangah, Kota Padang, Sumatera Barat (25171) |
+| 🏛️ **Karakteristik Wilayah** | 14 Rukun Warga (RW) · 58 Rukun Tetangga (RT) · Luas ±106,9 km² |
+| 👥 **Populasi & Fasilitas** | ±20.000 Jiwa · 81 Sarana Prasarana Umum · 25 Potensi Unggulan |
+| 🎓 **Dosen Pembimbing (DPL)** | **Rahman Pranovri Putra, M.Psi.** (NIP: 196812312009011020) |
+| 📅 **Periode Kegiatan** | 1 – 31 Agustus 2026 |
 
 ---
 
-## 🎯 Tujuan
+## ✨ Fitur Unggulan
 
-Website ini dibuat dengan beberapa tujuan utama:
+Website ini dikembangkan dengan arsitektur **Single Page Application (SPA)** yang responsif, cepat, dan kaya interaksi:
 
-- Menjadi media informasi KKN UISB 2026.
-- Mendokumentasikan seluruh rangkaian kegiatan KKN.
-- Memperkenalkan Kelurahan Balai Gadang kepada masyarakat secara digital.
-- Menjadi arsip digital perjalanan mahasiswa selama KKN.
-- Menyajikan program kerja dan kegiatan mahasiswa secara lebih terorganisir.
-- Mengabadikan pengalaman dan kontribusi mahasiswa selama berada di tengah masyarakat.
+```
+┌────────────────────────────────────────────────────────────────────────┐
+│                        PORTAL KKN BALAI GADANG                         │
+├─────────────────┬──────────────────┬─────────────────┬─────────────────┤
+│   🏠 BERANDA    │  📰 DAILY LOGS   │  🛠️ PROG. KERJA │  🖼️ GALERI FOTO │
+│ • Hero Section  │ • Kronologi KKN  │ • Proker Utama  │ • Grid Responsi │
+│ • Counter Stats │ • Kategori Eduk  │ • Sub-divisi    │ • Modal Lightbox│
+│ • Quick Access  │ • Baca Lengkap   │ • Status Progres│ • Filter Tema   │
+├─────────────────┼──────────────────┼─────────────────┼─────────────────┤
+│  👥 PROFIL TIM  │  🌳 BAGAN ORG.   │  🗺️ KELURAHAN   │  🎓 PESAN DPL   │
+│ • 21 Mahasiswa  │ • Pohon Hierarki │ • Data Geografis│ • Sambutan DPL  │
+│ • 5 Prodi UISB  │ • Struktur Tim   │ • Fasilitas RW  │ • Catatan Mutu  │
+│ • Pasfoto WebP  │ • Interaktif UI  │ • Potensi UMKM  │ • Linimasa Waktu│
+└─────────────────┴──────────────────┴─────────────────┴─────────────────┘
+```
 
----
-
-## 🤝 Kontribusi
-
-Project ini dibuat sebagai bagian dari dokumentasi dan media informasi **KKN UISB 2026 di Kelurahan Balai Gadang**.
-
-Kontribusi dalam bentuk pengembangan, dokumentasi, ide, maupun penyempurnaan konten sangat terbuka selama tetap mendukung tujuan utama website sebagai media informasi dan dokumentasi KKN.
-
----
-
-## 📸 Dokumentasi
-
-Setiap kegiatan merupakan bagian dari perjalanan KKN.
-
-Melalui dokumentasi yang dikumpulkan, website ini diharapkan dapat menjadi rekam jejak yang menggambarkan berbagai aktivitas, interaksi, program kerja, serta pengalaman mahasiswa selama melaksanakan pengabdian di Kelurahan Balai Gadang.
-
----
-
-## 📍 Lokasi KKN
-
-**Kelurahan Balai Gadang**
-Kecamatan Koto Tangah
-Kota Padang
-Sumatera Barat, Indonesia
+1. **Beranda Interaktif (*Landing Page*)**
+   - Menampilkan visual hero bernuansa Balai Gadang, ringkasan statistik wilayah, sorotan kegiatan utama, serta pratinjau galeri.
+2. **Jurnal & Cerita Harian (*Daily Stories*)**
+   - Dokumentasi lengkap perjalanan hari demi hari pengabdian dengan fitur pencarian dan penyaringan kategori (*Kegiatan, Sosial, Program Kerja, Dokumenter*).
+3. **Katalog Program Kerja (*Work Programs*)**
+   - Rekam jejak seluruh inisiatif kerja mahasiswa—mulai dari Pemetaan Geospasial, Cek Kesehatan Gratis, Psikoedukasi Anti-Bullying, hingga Pembuatan Rambu Reflektor Jalan.
+4. **Galeri Dokumentasi (*Responsive Lightbox*)**
+   - Arsip visual interaktif beresolusi optimal dengan mode penampil layar penuh.
+5. **Struktur Organisasi & Profil Anggota**
+   - Bagan pohon pimpinan dan divisi yang dinamis disertai profil 21 mahasiswa lintas prodi.
+6. **Eksplorasi Profil Kelurahan Balai Gadang**
+   - Rangkuman sejarah, visi kelurahan, inventarisasi fasilitas kesehatan, pendidikan, dan sarana ibadah.
 
 ---
 
-## 🎓 KKN UISB 2026
+## 🛠️ Arsitektur & Tech Stack
 
-Kegiatan ini merupakan bagian dari pelaksanaan **Kuliah Kerja Nyata Universitas Islam Sumatera Barat Tahun 2026**.
+Platform dibangun menggunakan teknologi frontend modern yang mengutamakan performa, aksesibilitas, dan kemudahan perawatan:
 
-KKN menjadi ruang bagi mahasiswa untuk tidak hanya menerapkan ilmu yang telah dipelajari, tetapi juga untuk belajar dari masyarakat, memahami lingkungan secara langsung, serta membangun pengalaman melalui kegiatan pengabdian.
-
----
-
-## 📌 Status Project
-
-**KKN UISB 2026 — Kelurahan Balai Gadang**
-
-`Active Development`
-
-Website akan terus dikembangkan dan diperbarui seiring dengan berlangsungnya kegiatan serta bertambahnya dokumentasi KKN.
-
----
-
-## ❤️ Apresiasi
-
-Terima kasih kepada seluruh pihak yang telah mendukung pelaksanaan KKN UISB 2026, khususnya:
-
-- Universitas Islam Sumatera Barat
-- Dosen Pembimbing Lapangan
-- Pemerintah Kelurahan Balai Gadang
-- Masyarakat Kelurahan Balai Gadang
-- Seluruh mahasiswa peserta KKN
-- Semua pihak yang telah membantu selama pelaksanaan kegiatan
-
-Setiap dukungan, kerja sama, dan kebersamaan menjadi bagian penting dari perjalanan KKN ini.
+| Komponen | Teknologi | Keterangan |
+| :--- | :--- | :--- |
+| **UI Framework** | [React 19](https://react.dev/) | Arsitektur komponen modular dan performa render terbaru |
+| **Bahasa** | [TypeScript](https://www.typescriptlang.org/) | Pengetikan statis (*type safety*) di seluruh model data |
+| **Bundler & Tooling** | [Vite 8](https://vitejs.dev/) | Hot Module Replacement (HMR) kilat & bundler teroptimasi |
+| **Styling Engine** | [Tailwind CSS v4](https://tailwindcss.com/) | Utilitas desain modern via `@tailwindcss/vite` |
+| **Client Routing** | [React Router v7](https://reactrouter.com/) | Manajemen rute SPA berbasis browser |
+| **Animasi** | [Motion](https://motion.dev/) | Transisi halaman halus & interaksi micro-animation |
+| **Ikonografi** | [Lucide React](https://lucide.dev/) | Set ikon SVG elegan & konsisten |
+| **Deployment** | [Vercel](https://vercel.com/) | Hosting global edge network dengan dukungan SPA routing |
 
 ---
 
-## 📄 License
+## 📂 Struktur Direktori
 
-Project ini dibuat untuk kebutuhan **informasi dan dokumentasi KKN UISB 2026**.
+```text
+kkn-uisb-2026/
+├── components/            # Komponen antarmuka React
+│   ├── dpl/               # Sambutan & kartu profil DPL
+│   ├── gallery/           # Grid galeri & modal lightbox
+│   ├── home/              # Hero, statistik, & seksi beranda
+│   ├── layout/            # Navbar, footer, & navigasi global
+│   ├── members/           # Kartu & kisi profil 21 mahasiswa
+│   ├── programs/          # Header & kartu detail program kerja
+│   ├── stories/           # Header, konten, & kartu berita harian
+│   ├── structure/         # Bagan organisasi struktural
+│   ├── timeline/          # Komponen linimasa pelaksanaan
+│   ├── ui/                # UI primitives (Container, Button, SafeImage, dll)
+│   └── village/           # Fasilitas, peta, & data profil kelurahan
+├── data/                  # Single source of truth (JSON Data)
+│   ├── dpl.json           # Data dosen pembimbing
+│   ├── gallery.json       # Metadata galeri foto
+│   ├── members.json       # Biodata & pasfoto 21 mahasiswa
+│   ├── programs.json      # Rincian kegiatan program kerja
+│   ├── stories.json       # Catatan narasi cerita kegiatan harian
+│   ├── structure.json     # Node pohon organisasi
+│   ├── timeline.json      # Jadwal agenda pengabdian
+│   └── village.json       # Data statistik & fasilitas Balai Gadang
+├── lib/                   # Utilitas & data loader (lib/csv)
+├── pages/                 # Komponen halaman (Routed Views)
+├── public/                # Direktori statis publik
+│   └── images/            # Aset WebP (dpl, gallery, logo, members, stories, village)
+├── scripts/               # Script generator aset pembantu
+├── src/                   # Entry point aplikasi (App.tsx, main.tsx, index.css)
+├── types/                 # Definisi tipe TypeScript
+├── .env.example           # Contoh variabel lingkungan
+├── .gitignore             # Konfigurasi proteksi file Git
+├── vercel.json            # Konfigurasi rewrite SPA Vercel
+├── vite.config.ts         # Konfigurasi Vite bundler
+└── package.json           # Dependensi & script eksekusi
+```
 
-Penggunaan kembali konten, dokumentasi foto, video, maupun aset yang terdapat dalam website diharapkan tetap memperhatikan hak dan izin dari pihak yang bersangkutan.
+---
+
+## 👥 Delegasi Tim KKN UISB 2026
+
+<div align="center">
+
+### Dosen Pembimbing Lapangan
+**Rahman Pranovri Putra, M.Psi.**  
+*NIP: 196812312009011020*
+
+</div>
+
+### Komposisi Multidisiplin Mahasiswa (21 Mahasiswa)
+
+<details open>
+<summary><b>Klik untuk melihat daftar delegasi mahasiswa per program studi</b></summary>
+<br />
+
+| Program Studi | Mahasiswa Terlibat | Fokus Kontribusi Utama |
+| :--- | :--- | :--- |
+| 💻 **Teknik Informatika & Sistem Informasi** | • Muhammad Faridz Maulana *(Ketua)*<br />• Dinatul Islami<br />• Hari Ihsan Nurijal<br />• Mela Saputri Ningsih<br />• Abbel<br />• Abdul Aziz<br />• Ladzya Fatharany<br />• Asral Hidayat<br />• Robi Cahyadi | Digitalisasi informasi kelurahan, pengembangan website arsip KKN, pemetaan geospasial potensi RW, serta edukasi keamanan siber bagi pemuda. |
+| 🏥 **Kesehatan Masyarakat** | • Adrian Saputra *(Wakil Ketua)*<br />• Azzahra *(Sekretaris I)*<br />• Safinatul Ilmi *(Sekretaris II)*<br />• Suci Yulia Agusni | Pendampingan kader Posyandu, program Cek Kesehatan Gratis (CKG) di SDN 21 & SMA Negeri 13 Padang, serta sosialisasi Perilaku Hidup Bersih & Sehat (PHBS). |
+| 🧠 **Psikologi** | • Friska Sahani Tanjung *(Bendahara)*<br />• Hafizil Ilmi<br />• Shintya Elna Dwita<br />• Fadila Khairunnisa<br />• Rayhan Jamel Pasha | Psikoedukasi *Stop Bullying*, pembinaan karakter siswa sekolah dasar, pengenalan regulasi emosi, serta pendampingan belajar santri TPA. |
+| ⚖️ **Ilmu Hukum** | • Sonya Sesmita<br />• Khairani Putri Azzahra<br />• Thahirah Tasman | Sosialisasi sadar hukum terkait tindak perundungan, konsultasi regulasi kemasyarakatan, serta pendampingan tertib administrasi lingkungan. |
+
+</details>
+
+---
+
+## 🚀 Panduan Instalasi & Pengembangan
+
+### Prasyarat
+- [Node.js](https://nodejs.org/) versi `18.x` atau lebih baru
+- Paket manajer: `npm`, `yarn`, `pnpm`, atau `bun`
+
+### 1. Kloning Repositori
+```bash
+git clone https://github.com/notbell1/kkn-uisb-balaigadang.git
+cd kkn-uisb-balaigadang
+```
+
+### 2. Pasang Dependensi
+```bash
+npm install
+```
+
+### 3. Jalankan Server Lokal
+```bash
+npm run dev
+```
+Buka browser pada tautan [http://localhost:3000](http://localhost:3000).
+
+### 4. Build Produksi
+```bash
+npm run build
+```
+Hasil kompilasi siap saji akan disimpan di direktori `dist/`.
+
+---
+
+## 🌐 Konfigurasi Hosting (Vercel)
+
+Proyek ini telah terhubung langsung dengan **Vercel**. Seluruh permintaan rute ditangani dengan aturan *rewrites* pada [vercel.json](file:///x:/Semester%206/KKN/Web_Utama/kkn-uisb-2026/vercel.json):
+
+```json
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}
+```
+
+> **Catatan:** Seluruh file proyek (termasuk folder `data/*.json`, `public/images/`, dan konfigurasi build) wajib disertakan dalam commit agar Vercel dapat melakukan proses build secara mandiri tanpa kendala *missing dependencies*. Hanya file kredensial lokal (`.env`, `.env.local`) yang secara otomatis dicegah oleh [.gitignore](file:///x:/Semester%206/KKN/Web_Utama/kkn-uisb-2026/.gitignore).
+
+---
+
+## 🤝 Ucapan Terima Kasih & Apresiasi
+
+Rasa syukur dan penghargaan mendalam kami haturkan kepada:
+- **Universitas Islam Sumatera Barat (UISB)** — atas amanah dan dukungan penuh program pengabdian.
+- **Bapak DPL** — atas bimbingan akademik, arahan teknis, dan teladan yang diberikan.
+- **Lurah & Aparatur Kelurahan Balai Gadang** — atas sambutan hangat dan sinergi kerja yang luar biasa.
+- **Tokoh Masyarakat, Pemuda, Ketua RW/RT, serta Seluruh Warga Balai Gadang** — atas kebersamaan, keramahan, dan tempat yang telah menjadi rumah kedua bagi kami.
 
 ---
 
 <div align="center">
 
-## KKN UISB 2026
+  **KKN UISB 2026 — Kelurahan Balai Gadang**  
+  *Kecamatan Koto Tangah, Kota Padang, Sumatera Barat*
 
-**Kelurahan Balai Gadang · Kecamatan Koto Tangah · Kota Padang**
+  <sub>Dibuat dengan dedikasi dan cinta oleh Mahasiswa KKN UISB 2026</sub>
 
-<br/>
+  <br />
 
-_Mengabdi · Belajar · Berkolaborasi · Berkarya_
-
-<br/>
-
-Made with ❤️ for KKN UISB 2026
+  [![GitHub Stars](https://img.shields.io/github/stars/notbell1/kkn-uisb-balaigadang?style=social)](https://github.com/notbell1/kkn-uisb-balaigadang)
 
 </div>
