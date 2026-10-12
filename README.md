@@ -1,48 +1,52 @@
 <div align="center">
 
-  <!-- Logo Banner -->
+  <!-- Logo Banner (Equal Height Alignment) -->
   <p align="center">
-    <img src="public/images/logo/uisb.png" alt="Logo UISB" width="100" />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="public/images/logo/kkn.png" alt="Logo KKN" width="100" />
+    <a href="https://uisb.ac.id" target="_blank">
+      <img src="public/images/logo/uisb.png" alt="Logo UISB" height="110" style="vertical-align: middle;" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://kkn-uisb-balaigadang.vercel.app/" target="_blank">
+      <img src="public/images/logo/kkn.png" alt="Logo KKN" height="110" style="vertical-align: middle;" />
+    </a>
   </p>
 
   <!-- Animated Typing Heading -->
-  <a href="https://github.com/notbell1/kkn-uisb-balaigadang">
-    <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=28&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&repeat=true&width=750&height=50&lines=KKN+UISB+2026;KELURAHAN+BALAI+GADANG;PENGABDIAN+%E2%80%A2+KOLABORASI+%E2%80%A2+KARYA" alt="Typing Title" />
+  <a href="https://kkn-uisb-balaigadang.vercel.app/" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=800&size=30&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&repeat=true&width=800&height=55&lines=KKN+UISB+2026;KELURAHAN+BALAI+GADANG;MENGABDI+%E2%80%A2+BERKOLABORASI+%E2%80%A2+BERKARYA;PORTAL+RESMI+PENGABDIAN+MASYARAKAT" alt="Typing Title" />
   </a>
 
   <!-- Animated Typing Subtitle -->
-  <a href="https://github.com/notbell1/kkn-uisb-balaigadang">
-    <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=500&size=16&duration=2500&pause=1200&color=94A3B8&center=true&vCenter=true&repeat=true&width=650&height=35&lines=Kecamatan+Koto+Tangah+%C2%B7+Kota+Padang+%C2%B7+Sumatera+Barat;21+Mahasiswa+%E2%80%A2+5+Program+Studi+%E2%80%A2+1+Tujuan+Pengabdian;Transformasi+Digital+%26+Pemberdayaan+Masyarakat" alt="Typing Subtitle" />
+  <a href="https://kkn-uisb-balaigadang.vercel.app/" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=16&duration=2500&pause=1200&color=94A3B8&center=true&vCenter=true&repeat=true&width=700&height=35&lines=Kecamatan+Koto+Tangah+%C2%B7+Kota+Padang+%C2%B7+Sumatera+Barat;21+Mahasiswa+Multidisiplin+%E2%80%A2+5+Program+Studi+Unggulan;Digitalisasi+Informasi+%C2%B7+Kesehatan+%C2%B7+Psikologi+%C2%B7+Hukum" alt="Typing Subtitle" />
   </a>
 
   <br />
 
-  <!-- Dynamic Badges -->
+  <!-- Luxury Badges -->
   <p align="center">
-    <a href="https://kkn-uisb-balaigadang.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Website-Live_on_Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Live" /></a>
-    <img src="https://img.shields.io/badge/Status-Active_Community-10B981?style=for-the-badge&logo=statuspage&logoColor=white" alt="Active Status" />
-    <img src="https://img.shields.io/badge/Wilayah-14_RW_%C2%B7_58_RT-0EA5E9?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Wilayah" />
-    <img src="https://img.shields.io/badge/Mahasiswa-21_Delegasi-8B5CF6?style=for-the-badge&logo=affinity&logoColor=white" alt="Delegasi Mahasiswa" />
+    <a href="https://kkn-uisb-balaigadang.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/LIVE_DEMO-kkn--uisb--balaigadang.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
+    <a href="https://github.com/notbell1/kkn-uisb-balaigadang"><img src="https://img.shields.io/badge/GITHUB-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" /></a>
+    <img src="https://img.shields.io/badge/WILAYAH-14_RW_%C2%B7_58_RT-0EA5E9?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Wilayah" />
+    <img src="https://img.shields.io/badge/TIM-21_Mahasiswa-8B5CF6?style=for-the-badge&logo=affinity&logoColor=white" alt="Tim Mahasiswa" />
+    <img src="https://img.shields.io/badge/STATUS-Verified_Project-10B981?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Status" />
   </p>
 
-  <!-- Live Demo CTA Button -->
+  <!-- Big Glowing Live Demo CTA -->
   <p align="center">
     <a href="https://kkn-uisb-balaigadang.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/🌐_KUNJUNGI_WEBSITE_RESMI-kkn--uisb--balaigadang.vercel.app-0D9488?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo Website" />
+      <img src="https://img.shields.io/badge/🚀_BUKA_WEBSITE_RESMI-kkn--uisb--balaigadang.vercel.app-0D9488?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Kunjungi Website" />
     </a>
   </p>
 
-  <!-- Interactive Quick Navigation -->
+  <!-- Quick Navigation Bar -->
   <p align="center">
     <a href="https://kkn-uisb-balaigadang.vercel.app/" target="_blank"><b>🌐 Live Website</b></a> •
     <a href="#-filosofi-pengabdian"><b>🌟 Filosofi</b></a> •
-    <a href="#-dasbor-metrik-wilayah"><b>📊 Dasbor Data</b></a> •
+    <a href="#-dasbor-metrik-wilayah"><b>📊 Data Wilayah</b></a> •
     <a href="#-fitur-interaktif-platform"><b>✨ Fitur Unggulan</b></a> •
     <a href="#-4-pilar-program-kerja"><b>🎯 Program Kerja</b></a> •
-    <a href="#-profil-kelurahan-balai-gadang"><b>🗺️ Wilayah</b></a> •
-    <a href="#-delegasi-tim-kkn"><b>👥 Struktur Tim</b></a>
+    <a href="#-bagan-struktur-organisasi-tim"><b>👥 Bagan Struktur (Foto)</b></a>
   </p>
 
   <br />
@@ -62,11 +66,11 @@
 
 ## 🌟 Filosofi Pengabdian
 
-> <img src="https://img.shields.io/badge/PETATAH_PETITIH_MINANGKABAU-0F172A?style=flat-square&color=14B8A6" alt="Minang Quote" />  
+> <img src="https://img.shields.io/badge/PETATAH_PETITIH_MINANGKABAU-0F172A?style=flat-square&color=2DD4BF" alt="Minang Quote" />  
 > ### *"Barek samo dipikua, ringan samo dijinjiang."*  
-> *"Duduak samo randah, tagak samo tinggi — Mahasiswa datang bukan menggurui, melainkan merajut ilmu dan nurani di tengah kearifan masyarakat Balai Gadang."*
+> *"Duduak samo randah, tagak samo tinggi — Mahasiswa hadir bukan untuk menggurui, melainkan merajut ilmu dan nurani di tengah kearifan masyarakat Kelurahan Balai Gadang."*
 
-**Kuliah Kerja Nyata (KKN) Universitas Islam Sumatera Barat (UISB) 2026** merupakan tonggak dedikasi akademik mahasiswa dalam mengabdikan diri di **Kelurahan Balai Gadang, Kecamatan Koto Tangah, Kota Padang**. Menyatukan perspektif teknologi informasi, kesehatan, psikologi, dan hukum, tim berfokus pada digitalisasi arsip, ketahanan kesehatan keluarga, pembinaan karakter generasi muda, dan literasi hukum masyarakat.
+**Kuliah Kerja Nyata (KKN) Universitas Islam Sumatera Barat (UISB) 2026** di **Kelurahan Balai Gadang, Kecamatan Koto Tangah, Kota Padang** merupakan wujud nyata integrasi Tridharma Perguruan Tinggi. Sebanyak **21 mahasiswa** dari **5 program studi** berkolaborasi menghadirkan transformasi digital, peningkatan kualitas kesehatan keluarga, pembinaan karakter generasi penerus, serta edukasi hukum kemasyarakatan.
 
 ---
 
@@ -74,14 +78,14 @@
 
 <div align="center">
 
-| Metrik Indikator | Capaian / Nilai | Progres & Status |
+| Indikator Wilayah & Pengabdian | Angka Capaian | Status & Distribusi |
 | :--- | :---: | :--- |
-| 📍 **Luas Wilayah Kelurahan** | **106,9 km²** | `████████████████████` *Wilayah terluas Koto Tangah* |
-| 🏘️ **Administrasi Lingkungan** | **14 RW · 58 RT** | `████████████████████` *100% Terpetakan* |
-| 👥 **Estimasi Populasi Warga** | **±20.000 Jiwa** | `████████████████████` *Masyarakat Heterogen* |
-| 🏛️ **Fasilitas Umum Terdata** | **81 Sarana** | `████████████████████` *Ibadah, Sekolah, Kesehatan* |
-| 🌾 **Potensi Unggulan Daerah** | **25 Klaster** | `████████████████████` *Pertanian, Alam, UMKM* |
-| 🎓 **Delegasi Mahasiswa UISB** | **21 Mahasiswa** | `████████████████████` *5 Disiplin Ilmu Terpadu* |
+| 📍 **Luas Wilayah Kelurahan** | **106,9 km²** | `████████████████████` *Kelurahan terluas di Koto Tangah* |
+| 🏘️ **Administrasi Lingkungan** | **14 RW · 58 RT** | `████████████████████` *100% Wilayah Terjangkau* |
+| 👥 **Populasi Penduduk** | **±20.000 Jiwa** | `████████████████████` *Masyarakat Dinamis & Ramah* |
+| 🏛️ **Fasilitas Umum Terdata** | **81 Sarana** | `████████████████████` *Ibadah, Sekolah, Posyandu* |
+| 🌾 **Potensi Unggulan Daerah** | **25 Klaster** | `████████████████████` *Tanaman Hias, Tani, Wisata* |
+| 🎓 **Delegasi Mahasiswa UISB** | **21 Mahasiswa** | `████████████████████` *5 Disiplin Ilmu Sinergis* |
 
 </div>
 
@@ -90,18 +94,18 @@
 ## ✨ Fitur Interaktif Platform
 
 <details open>
-<summary><b>🚀 Klik untuk melihat rangkaian modul & pengalaman digital website</b></summary>
+<summary><b>🚀 Klik untuk melihat eksplorasi modul digital website</b></summary>
 <br />
 
-| Modul Digital | Pengalaman Interaktif & Fitur |
+| Modul Platform | Pengalaman Digital |
 | :--- | :--- |
-| 🏠 **Beranda Dinamis** | Visual Hero bertema lokal, counter statistik animasi, sorotan berita utama, cuplikan linimasa, serta pratinjau galeri dokumentasi. |
-| 📰 **Jurnal Harian (*Daily Stories*)** | Arsip naratif kronologis perjalanan KKN hari demi hari lengkap dengan sistem filter kategori (*Kegiatan, Sosial, Program Kerja, Dokumenter*). |
-| 🛠️ **Sentra Program Kerja** | Eksplorasi program utama dan inisiatif per divisi lengkap dengan badge status progres, dampak warga, dan dokumentasi lapangan. |
-| 🖼️ **Galeri Interaktif & Lightbox** | Grid foto beresolusi teroptimasi WebP dengan penampil *modal lightbox* layar penuh untuk kenyamanan eksplorasi visual. |
-| 🌳 **Bagan Organisasi Hierarkis** | Pohon struktural organisasi interaktif dari Ketua, Wakil, Sekretaris, Bendahara, hingga para Koordinator Divisi. |
-| 🗺️ **Ensiklopedia Balai Gadang** | Pusat data kelurahan meliputi sejarah, visi-misi, sebaran fasilitas umum (81 sarana), hingga potensi wisata alam Lubuk Ngalauan. |
-| 🎓 **Ruang Sambutan DPL** | Profil akademik dan pesan refleksi dari Dosen Pembimbing Lapangan bagi mahasiswa dan warga. |
+| 🏠 **Beranda Dinamis** | Visual Hero modern bertema Balai Gadang, counter animasi data statistik, cuplikan berita, dan galeri interaktif. |
+| 📰 **Jurnal Harian (*Daily Stories*)** | Arsip narasi harian mahasiswa dengan filter kategori (*Kegiatan, Sosial, Program Kerja, Dokumenter*). |
+| 🛠️ **Sentra Program Kerja** | Eksplorasi program kerja terpadu lengkap dengan status capaian, sasaran warga, dan dokumentasi lapangan. |
+| 🖼️ **Galeri Interaktif & Lightbox** | Grid foto teroptimasi format WebP berkecepatan tinggi dengan penampil *modal lightbox* layar penuh. |
+| 🌳 **Bagan Organisasi Visual** | Struktur kepengurusan interaktif lengkap dengan pasfoto, nama, jabatan, dan asal program studi mahasiswa. |
+| 🗺️ **Ensiklopedia Balai Gadang** | Pusat informasi kelurahan memuat sejarah, visi-misi, sebaran 81 fasilitas umum, serta potensi wisata alam Air Terjun Lubuk Ngalauan. |
+| 🎓 **Sambutan & Pesan DPL** | Arahan akademik, refleksi, dan motivasi dari Dosen Pembimbing Lapangan bagi mahasiswa dan warga. |
 
 </details>
 
@@ -121,120 +125,250 @@
 <details>
 <summary><b>💻 PILAR 1: Transformasi Digital & Teknologi Informasi</b></summary>
 
-- **Pengembangan Portal Arsip KKN UISB:** Platform digital dokumentasi terintegrasi berbasis Single Page Application.
-- **Pemetaan Geospasial Potensi Kelurahan:** Inventarisasi potensi alam, fasilitas umum, dan UMKM di 14 RW.
-- **Edukasi Keamanan Siber & Digital Marketing:** Lokakarya pemanfaatan media sosial untuk bisnis warga dan antisipasi kejahatan digital bagi pemuda.
+- **Portal Web KKN UISB Balai Gadang:** Website resmi arsip dan informasi digital berbasis Single Page Application responsif.
+- **Pemetaan Geospasial Potensi Kelurahan:** Inventarisasi fasilitas umum, potensi pertanian, dan UMKM di 14 RW.
+- **Edukasi Keamanan Siber & Digital Marketing:** Pemanfaatan media sosial untuk pemasaran digital warga dan kewaspadaan kejahatan siber bagi pemuda.
 
 </details>
 
 <details>
 <summary><b>🏥 PILAR 2: Kesehatan Masyarakat & Kebersihan Lingkungan</b></summary>
 
-- **Cek Kesehatan Gratis (CKG):** Pelayanan pemeriksaan tekanan darah dan deteksi dini di SDN 21 Sungai Bangek & SMA Negeri 13 Padang.
-- **Pendampingan Posyandu Terpadu:** Pengukuran antropometri balita dan pendampingan kader di Posyandu Baringin 10 & Pustu Air Dingin.
-- **Edukasi PHBS & Personal Hygiene:** Sosialisasi 6 langkah cuci tangan standar WHO dan kesehatan gigi di tingkat sekolah dasar.
-- **Fasilitas Pemilah Sampah Mandiri:** Pembuatan tong pemilah sampah organik dan anorganik.
+- **Cek Kesehatan Gratis (CKG):** Skrining kesehatan di SDN 21 Sungai Bangek dan SMA Negeri 13 Padang.
+- **Pendampingan Posyandu Terpadu:** Pengukuran tumbuh kembang balita bersama kader di Posyandu Baringin 10 dan Pustu Air Dingin.
+- **Edukasi Personal Hygiene & PHBS:** Praktik cuci tangan 6 langkah WHO dan perawatan gigi di sekolah dasar.
+- **Tong Sampah Pilah Mandiri:** Pengadaan fasilitas tong sampah organik dan anorganik di posko dan lingkungan warga.
 
 </details>
 
 <details>
-<summary><b>🧠 PILAR 3: Psikososial & Pembinaan Karakter Generasi Muda</b></summary>
+<summary><b>🧠 PILAR 3: Psikososial & Pembinaan Karakter</b></summary>
 
-- **Sosialisasi Stop Bullying:** Psikoedukasi pencegahan perundungan di sekolah dasar dengan pendekatan empati dan cerita bergambar.
-- **Psikoedukasi Regulasi Emosi:** Membantu siswa SDN 32 Sungai Bangek mengenal emosi diri dan pengaruh pergaulan teman sebaya.
-- **Bimbingan Belajar & TPA:** Pendampingan belajar membaca dan menulis huruf Hijaiyah di TPA setempat.
+- **Sosialisasi Stop Bullying:** Psikoedukasi pencegahan perundungan di sekolah dasar berbasis empati.
+- **Edukasi Regulasi Emosi:** Mengajak siswa SDN 32 Sungai Bangek mengenali potensi diri dan menghadapi pengaruh teman sebaya.
+- **Bimbingan Belajar & TPA:** Pengajaran membaca Al-Qur'an dan seni penulisan huruf Hijaiyah bagi santri anak-anak.
 
 </details>
 
 <details>
-<summary><b>⚖️ PILAR 4: Literasi Hukum & Tata Kelola Lingkungan</b></summary>
+<summary><b>⚖️ PILAR 4: Literasi Hukum & Ketertiban Lingkungan</b></summary>
 
-- **Edukasi Sadar Hukum Anti-Perundungan:** Pemahaman aspek konsekuensi hukum dari tindakan kekerasan dan perundungan fisik/verbal.
-- **Pemasangan Rambu Reflektor Keselamatan:** Pemasangan stiker pantul cahaya (scotlight) di titik-titik tikungan jalan desa yang minim penerangan.
-- **Pendampingan Gotong Royong (BBGRM):** Partisipasi aktif dalam Bulan Bhakti Gotong Royong Masyarakat di Air Dingin RT 02 / RW 11.
+- **Penyuluhan Sadar Hukum Bullying:** Sosialisasi konsekuensi hukum dari tindakan kekerasan dan perundungan.
+- **Pemasangan Rambu Reflektor Jalan:** Pemasangan scotlight keselamatan di tikungan dan jalur rawan kecelakaan.
+- **Partisipasi BBGRM:** Kolaborasi dalam Bulan Bhakti Gotong Royong Masyarakat di Air Dingin RT 02 / RW 11.
 
 </details>
 
 ---
 
-## 🗺️ Profil Kelurahan Balai Gadang
+## 👥 Bagan Struktur Organisasi Tim
 
 <div align="center">
 
-```
-  ┌────────────────────────────────────────────────────────────────────────┐
-  │                   KELURAHAN BALAI GADANG, PADANG                       │
-  ├────────────────────────────────────────────────────────────────────────┤
-  │  🌿 Dataran Hijau Lembah Batang Kandis & Batang Air Dingin             │
-  │  🌸 Sentra Pembibitan Tanaman Hias & Hortikultura Sumatera Barat       │
-  │  🏞️ Destinasi Ekowisata Alami: Air Terjun Lubuk Ngalauan               │
-  │  🏛️ Kantor Lurah: Jl. Raya Balai Gadang, Koto Tangah, Kota Padang     │
-  └────────────────────────────────────────────────────────────────────────┘
-```
+### 🏛️ Dosen Pembimbing Lapangan (DPL)
 
-</div>
-
-Balai Gadang memiliki kontur geografis memikat yang membentang dari pemukiman warga hingga perbukitan asri Sungai Lareh dan Lubuk Minturun. Dikenal dengan tanah subur dan sumber air pegunungan alami, wilayah ini berkembang menjadi pusat pembibitan flora dan pertanian organik yang menjadi penopang ekonomi hijau Kota Padang.
-
----
-
-## 👥 Delegasi Tim KKN
-
-<div align="center">
-
-### 👨‍🏫 Dosen Pembimbing Lapangan (DPL)
-**Rahman Pranovri Putra, M.Psi.**  
-`NIP: 196812312009011020`
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="public/images/dpl/Rahman-Putra.webp" width="130" style="border-radius: 10px;" /><br />
+      <b>Rahman Pranovri Putra, M.Psi.</b><br />
+      <sub><b>Dosen Pembimbing Lapangan</b></sub><br />
+      <sub>NIP: 196812312009011020</sub>
+    </td>
+  </tr>
+</table>
 
 <br />
 
+### 👑 Pimpinan Utama & Badan Pengurus Harian (BPH)
+
+<table align="center">
+  <tr>
+    <td align="center" width="260">
+      <img src="public/images/members/2355202006_MuhammadFaridzMaulana.webp" width="115" style="border-radius: 10px;" /><br />
+      <b>Muhammad Faridz Maulana</b><br />
+      <img src="https://img.shields.io/badge/Ketua_Tim-2563EB?style=flat-square" /><br />
+      <sub>NIM: 2355202006</sub><br />
+      <sub>Teknik Informatika</sub>
+    </td>
+    <td align="center" width="260">
+      <img src="public/images/members/2313201018_AdrianSaputra.webp" width="115" style="border-radius: 10px;" /><br />
+      <b>Adrian Saputra</b><br />
+      <img src="https://img.shields.io/badge/Wakil_Ketua-059669?style=flat-square" /><br />
+      <sub>NIM: 2313201018</sub><br />
+      <sub>Kesehatan Masyarakat</sub>
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center" width="220">
+      <img src="public/images/members/2313201010_Azzahra.webp" width="105" style="border-radius: 10px;" /><br />
+      <b>Azzahra</b><br />
+      <img src="https://img.shields.io/badge/Sekretaris_I-0D9488?style=flat-square" /><br />
+      <sub>NIM: 2313201010</sub><br />
+      <sub>Kesehatan Masyarakat</sub>
+    </td>
+    <td align="center" width="220">
+      <img src="public/images/members/2313201004_SafinatulIlmi.webp" width="105" style="border-radius: 10px;" /><br />
+      <b>Safinatul Ilmi</b><br />
+      <img src="https://img.shields.io/badge/Sekretaris_II-0D9488?style=flat-square" /><br />
+      <sub>NIM: 2313201004</sub><br />
+      <sub>Kesehatan Masyarakat</sub>
+    </td>
+    <td align="center" width="220">
+      <img src="public/images/members/2373201014_FriskaSahaniTanjung.webp" width="105" style="border-radius: 10px;" /><br />
+      <b>Friska Sahani Tanjung</b><br />
+      <img src="https://img.shields.io/badge/Bendahara-D97706?style=flat-square" /><br />
+      <sub>NIM: 2373201014</sub><br />
+      <sub>Psikologi</sub>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+### 🎭 Divisi Acara & Pelaksanaan
+
+<table align="center">
+  <tr>
+    <td align="center" width="180">
+      <img src="public/images/members/2359201008_DinatulIslami.webp" width="95" style="border-radius: 8px;" /><br />
+      <b>Dinatul Islami</b><br />
+      <img src="https://img.shields.io/badge/Koordinator-7C3AED?style=flat-square" /><br />
+      <sub>2359201008 · SI</sub>
+    </td>
+    <td align="center" width="180">
+      <img src="public/images/members/2373201012_HafizilIlmi.webp" width="95" style="border-radius: 8px;" /><br />
+      <b>Hafizil Ilmi</b><br />
+      <img src="https://img.shields.io/badge/Anggota-64748B?style=flat-square" /><br />
+      <sub>2373201012 · Psikologi</sub>
+    </td>
+    <td align="center" width="180">
+      <img src="public/images/members/2355202012_AbdulAziz.webp" width="95" style="border-radius: 8px;" /><br />
+      <b>Abdul Aziz</b><br />
+      <img src="https://img.shields.io/badge/Anggota-64748B?style=flat-square" /><br />
+      <sub>2355202012 · TI</sub>
+    </td>
+    <td align="center" width="180">
+      <img src="public/images/members/2374201010_SonyaSesmita.webp" width="95" style="border-radius: 8px;" /><br />
+      <b>Sonya Sesmita</b><br />
+      <img src="https://img.shields.io/badge/Anggota-64748B?style=flat-square" /><br />
+      <sub>2374201010 · Hukum</sub>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+### 📸 Divisi Publikasi, Dokumentasi & IT
+
+<table align="center">
+  <tr>
+    <td align="center" width="230">
+      <img src="public/images/members/2313201002_SuciKayo.webp" width="95" style="border-radius: 8px;" /><br />
+      <b>Suci Yulia Agusni</b><br />
+      <img src="https://img.shields.io/badge/Koordinator-0284C7?style=flat-square" /><br />
+      <sub>2313201002 · Kesmas</sub>
+    </td>
+    <td align="center" width="230">
+      <img src="public/images/members/2359201000_MelaSaputriNingsih.webp" width="95" style="border-radius: 8px;" /><br />
+      <b>Mela Saputri Ningsih</b><br />
+      <img src="https://img.shields.io/badge/Anggota-64748B?style=flat-square" /><br />
+      <sub>2359201000 · SI</sub>
+    </td>
+    <td align="center" width="230">
+      <img src="public/images/members/2374201004_KhairaniPutriAzzahra.webp" width="95" style="border-radius: 8px;" /><br />
+      <b>Khairani Putri Azzahra</b><br />
+      <img src="https://img.shields.io/badge/Anggota-64748B?style=flat-square" /><br />
+      <sub>2374201004 · Hukum</sub>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+### 🍽️ Divisi Konsumsi & Kesejahteraan
+
+<table align="center">
+  <tr>
+    <td align="center" width="230">
+      <img src="public/images/members/2373201002_ShintyaElnaDwita.webp" width="95" style="border-radius: 8px;" /><br />
+      <b>Shintya Elna Dwita</b><br />
+      <img src="https://img.shields.io/badge/Koordinator-E11D48?style=flat-square" /><br />
+      <sub>2373201002 · Psikologi</sub>
+    </td>
+    <td align="center" width="230">
+      <img src="public/images/members/2355202007_LadzyaFatharany.webp" width="95" style="border-radius: 8px;" /><br />
+      <b>Ladzya Fatharany</b><br />
+      <img src="https://img.shields.io/badge/Anggota-64748B?style=flat-square" /><br />
+      <sub>2355202007 · TI</sub>
+    </td>
+    <td align="center" width="230">
+      <img src="public/images/members/2373201011_RayhanJamelPasha.webp" width="95" style="border-radius: 8px;" /><br />
+      <b>Rayhan Jamel Pasha</b><br />
+      <img src="https://img.shields.io/badge/Anggota-64748B?style=flat-square" /><br />
+      <sub>2373201011 · Psikologi</sub>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+### 🛠️ Divisi Perlengkapan & Logistik
+
+<table align="center">
+  <tr>
+    <td align="center" width="180">
+      <img src="public/images/members/2359201006_HariIhsanNurijal.webp" width="95" style="border-radius: 8px;" /><br />
+      <b>Hari Ihsan Nurijal</b><br />
+      <img src="https://img.shields.io/badge/Koordinator-EA580C?style=flat-square" /><br />
+      <sub>2359201006 · SI</sub>
+    </td>
+    <td align="center" width="180">
+      <img src="public/images/members/2359201015_Abbel.webp" width="95" style="border-radius: 8px;" /><br />
+      <b>Abbel</b><br />
+      <img src="https://img.shields.io/badge/Anggota-64748B?style=flat-square" /><br />
+      <sub>2359201015 · SI</sub>
+    </td>
+    <td align="center" width="180">
+      <img src="public/images/members/2355202010_AsralHidayat.webp" width="95" style="border-radius: 8px;" /><br />
+      <b>Asral Hidayat</b><br />
+      <img src="https://img.shields.io/badge/Anggota-64748B?style=flat-square" /><br />
+      <sub>2355202010 · TI</sub>
+    </td>
+    <td align="center" width="180">
+      <img src="public/images/members/2373201007_FadilaKhairunnisa.webp" width="95" style="border-radius: 8px;" /><br />
+      <b>Fadila Khairunnisa</b><br />
+      <img src="https://img.shields.io/badge/Anggota-64748B?style=flat-square" /><br />
+      <sub>2373201007 · Psikologi</sub>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+### 🤝 Divisi Hubungan Masyarakat (Humas)
+
+<table align="center">
+  <tr>
+    <td align="center" width="260">
+      <img src="public/images/members/2359201010_RobiCahyadi.webp" width="95" style="border-radius: 8px;" /><br />
+      <b>Robi Cahyadi</b><br />
+      <img src="https://img.shields.io/badge/Koordinator-16A34A?style=flat-square" /><br />
+      <sub>2359201010 · SI</sub>
+    </td>
+    <td align="center" width="260">
+      <img src="public/images/members/2374201015_ThahirahTasman.webp" width="95" style="border-radius: 8px;" /><br />
+      <b>Thahirah Tasman</b><br />
+      <img src="https://img.shields.io/badge/Anggota-64748B?style=flat-square" /><br />
+      <sub>2374201015 · Hukum</sub>
+    </td>
+  </tr>
+</table>
+
 </div>
-
-### 🎓 21 Mahasiswa Lintas 5 Program Studi UISB
-
-<details open>
-<summary><b>👑 Jajaran Pimpinan & Badan Pengurus Harian (BPH)</b></summary>
-
-| Jabatan | Nama Mahasiswa | NIM | Program Studi |
-| :--- | :--- | :---: | :--- |
-| **Ketua Tim** | **Muhammad Faridz Maulana** | `2355202006` | Teknik Informatika |
-| **Wakil Ketua** | **Adrian Saputra** | `2313201018` | Kesehatan Masyarakat |
-| **Sekretaris I** | **Azzahra** | `2313201010` | Kesehatan Masyarakat |
-| **Sekretaris II** | **Safinatul Ilmi** | `2313201004` | Kesehatan Masyarakat |
-| **Bendahara** | **Friska Sahani Tanjung** | `2373201014` | Psikologi |
-
-</details>
-
-<details open>
-<summary><b>🌟 Divisi-Divisi Pelaksana Program Kerja</b></summary>
-
-#### 🎭 Divisi Acara & Pelaksanaan
-- **Koordinator:** Dinatul Islami (`2359201008` · Sistem Informasi)
-- Hafizil Ilmi (`2373201012` · Psikologi)
-- Abdul Aziz (`2355202012` · Teknik Informatika)
-- Sonya Sesmita (`2374201010` · Ilmu Hukum)
-
-#### 📸 Divisi Publikasi, Dokumentasi & IT
-- **Koordinator:** Suci Yulia Agusni (`2313201002` · Kesehatan Masyarakat)
-- Mela Saputri Ningsih (`2359201000` · Sistem Informasi)
-- Khairani Putri Azzahra (`2374201004` · Ilmu Hukum)
-
-#### 🍽️ Divisi Konsumsi & Kesejahteraan
-- **Koordinator:** Shintya Elna Dwita (`2373201002` · Psikologi)
-- Ladzya Fatharany (`2355202007` · Teknik Informatika)
-- Rayhan Jamel Pasha (`2373201011` · Psikologi)
-
-#### 🛠️ Divisi Perlengkapan & Logistik
-- **Koordinator:** Hari Ihsan Nurijal (`2359201006` · Sistem Informasi)
-- Abbel (`2359201015` · Sistem Informasi)
-- Asral Hidayat (`2355202010` · Teknik Informatika)
-- Fadila Khairunnisa (`2373201007` · Psikologi)
-
-#### 🤝 Divisi Hubungan Masyarakat & Kemitraan
-- **Koordinator:** Robi Cahyadi (`2359201010` · Sistem Informasi)
-- Thahirah Tasman (`2374201015` · Ilmu Hukum)
-
-</details>
 
 ---
 
@@ -271,7 +405,7 @@ Balai Gadang memiliki kontur geografis memikat yang membentang dari pemukiman wa
   <br /><br />
 
   <a href="https://github.com/notbell1/kkn-uisb-balaigadang">
-    <img src="https://img.shields.io/badge/★_Bintang_di_GitHub-notbell1/kkn--uisb--balaigadang-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Star GitHub" />
+    <img src="https://img.shields.io/badge/★_BINTANG_DI_GITHUB-notbell1/kkn--uisb--balaigadang-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Star GitHub" />
   </a>
 
 </div>
