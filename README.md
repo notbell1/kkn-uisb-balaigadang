@@ -27,9 +27,9 @@
   <p align="center">
     <a href="https://kkn-uisb-balaigadang.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/LIVE_DEMO-kkn--uisb--balaigadang.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
     <a href="https://github.com/notbell1/kkn-uisb-balaigadang"><img src="https://img.shields.io/badge/GITHUB-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" /></a>
+    <a href="LICENSE"><img src="https://img.shields.io/badge/LISENSI-MIT-22C55E?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="MIT License" /></a>
     <img src="https://img.shields.io/badge/WILAYAH-14_RW_%C2%B7_58_RT-0EA5E9?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Wilayah" />
     <img src="https://img.shields.io/badge/TIM-21_Mahasiswa-8B5CF6?style=for-the-badge&logo=affinity&logoColor=white" alt="Tim Mahasiswa" />
-    <img src="https://img.shields.io/badge/STATUS-Verified_Project-10B981?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Status" />
   </p>
 
   <!-- Big Glowing Live Demo CTA -->
