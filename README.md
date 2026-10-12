@@ -21,20 +21,37 @@
 
   <!-- Dynamic Badges -->
   <p align="center">
+    <a href="https://kkn-uisb-balaigadang.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Website-Live_on_Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Live" /></a>
     <img src="https://img.shields.io/badge/Status-Active_Community-10B981?style=for-the-badge&logo=statuspage&logoColor=white" alt="Active Status" />
     <img src="https://img.shields.io/badge/Wilayah-14_RW_%C2%B7_58_RT-0EA5E9?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Wilayah" />
     <img src="https://img.shields.io/badge/Mahasiswa-21_Delegasi-8B5CF6?style=for-the-badge&logo=affinity&logoColor=white" alt="Delegasi Mahasiswa" />
-    <img src="https://img.shields.io/badge/Platform-Live_on_Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Live" />
+  </p>
+
+  <!-- Live Demo CTA Button -->
+  <p align="center">
+    <a href="https://kkn-uisb-balaigadang.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/🌐_KUNJUNGI_WEBSITE_RESMI-kkn--uisb--balaigadang.vercel.app-0D9488?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo Website" />
+    </a>
   </p>
 
   <!-- Interactive Quick Navigation -->
   <p align="center">
+    <a href="https://kkn-uisb-balaigadang.vercel.app/" target="_blank"><b>🌐 Live Website</b></a> •
     <a href="#-filosofi-pengabdian"><b>🌟 Filosofi</b></a> •
     <a href="#-dasbor-metrik-wilayah"><b>📊 Dasbor Data</b></a> •
     <a href="#-fitur-interaktif-platform"><b>✨ Fitur Unggulan</b></a> •
     <a href="#-4-pilar-program-kerja"><b>🎯 Program Kerja</b></a> •
     <a href="#-profil-kelurahan-balai-gadang"><b>🗺️ Wilayah</b></a> •
     <a href="#-delegasi-tim-kkn"><b>👥 Struktur Tim</b></a>
+  </p>
+
+  <br />
+
+  <!-- Showcase Preview Banner -->
+  <p align="center">
+    <a href="https://kkn-uisb-balaigadang.vercel.app/" target="_blank">
+      <img src="public/images/preview.png" alt="Preview Website KKN UISB 2026 — Kelurahan Balai Gadang" width="100%" />
+    </a>
   </p>
 
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2px" />
@@ -225,6 +242,8 @@ Balai Gadang memiliki kontur geografis memikat yang membentang dari pemukiman wa
 
 <div align="center">
 
+[![Website KKN](https://img.shields.io/badge/Website_Resmi-kkn--uisb--balaigadang.vercel.app-14B8A6?style=for-the-badge&logo=vercel&logoColor=white)](https://kkn-uisb-balaigadang.vercel.app/)
+&nbsp;&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-@kkn.uisb__balaigadang2026-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kkn.uisb_balaigadang2026)
 &nbsp;&nbsp;
 [![TikTok](https://img.shields.io/badge/TikTok-@kelurahan__balaigadang-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@kelurahan_balaigadang)
